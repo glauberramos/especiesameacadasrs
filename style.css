@@ -13,7 +13,6 @@
 	border: 1px solid #ddd;
 	padding: 1em;
 	margin: 0 1em;
-	padding-top: 0;
 	height: 120px;
 }
 
@@ -65,6 +64,22 @@ p, h1 {
 	border-top: 10px solid #FB8C00;
 }
 
+.filter {
+	height: 25px;
+	background: #eee;
+	border: 1px solid #ddd;
+	margin: 0.5em 1em;
+	font-weight: bold;
+	padding: 1em;
+}
+
+.input {
+	height: 25px;
+	width: 400px;
+	margin-left: 1em;
+	font-size: 0.9em;
+}
+
 .filter-repo {
 	display: inline-block;
 	cursor: pointer;
@@ -78,6 +93,7 @@ p, h1 {
 	border-radius: 3px;
 	font-size: 1em;
 	color: #777;
+	cursor: pointer;
 }
 
 .filter-repo input[type="checkbox"]:checked + label i {
@@ -135,6 +151,7 @@ b {
 	display: inline-block;
 	width: 24.5%;
 	vertical-align: bottom;
+	height: 120px;
 }
 
 img.icon {

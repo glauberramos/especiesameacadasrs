@@ -39,8 +39,10 @@
 			</div>
 		</div>
 		
-		<label for="search-species">Pesquisa por espécies</label>
-		<input id="search-species" ng-model="search.$">
+		<div class="filter">
+			<label for="search-species">Pesquisa</label>
+			<input class="input" type="text" id="search-species" placeholder="Nome científico, Nome Comum, Grupo, Ordem e Familia" ng-model="search.$">
+		</div>
 
 		<section id="species">
 			<div ng-repeat="specie in filteredSpecies | filter:search:strict | orderBy:'Categoria'" class="specie {{getCriterio(specie)}}">

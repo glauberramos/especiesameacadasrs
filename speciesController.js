@@ -1,7 +1,7 @@
 angular.module('Species', []).
 controller('speciesController', function($scope) {
     $scope.filterGrupo = {"Aves":true,"Anfíbios":true,"Invertebrados":true,"Peixes":true,"Répteis":true,"Mamíferos":true};
-    $scope.filterCategoria = {"CR - Ameaçado - Criticamente em perigo": true, "EN - Ameaçado - Em perigo": true, "VU - Ameaçado - Vulnerável": true, "RE - Regionalmente extinto": true}
+    $scope.filterCategoria = {"RE - Regionalmente extinto": true, "CR - Ameaçado - Criticamente em perigo": true, "EN - Ameaçado - Em perigo": true, "VU - Ameaçado - Vulnerável": true}
 
     $scope.getNomeComum = function(nomeComum) {
         return nomeComum.replace(/-/g, ' ');
