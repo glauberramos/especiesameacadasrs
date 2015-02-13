@@ -158,10 +158,8 @@ b {
 }
 
 .half-width {
-	display: inline-block;
-	width: 24.5%;
-	vertical-align: bottom;
-	height: 120px;
+	position: absolute;
+	bottom: -100px;
 }
 
 img.icon {
@@ -221,6 +219,12 @@ img.icon {
 	display: inline-block;
 	margin: 0 0.5em;
 	vertical-align: top;
+}
+
+.relative {
+	position: relative;
+	display: inline-block;
+	width: 24.5%;
 }
 
 .porcentage {

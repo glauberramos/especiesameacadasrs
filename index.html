@@ -11,31 +11,39 @@
 		<h1>Lista de animais ameaçados do RS</h1>
 
 		<div class="info">
-			<div class="half-width">
-				<span ng-repeat="(grupo, value) in filterGrupo" class="filter-repo right grupo">
-					<input type="checkbox" ng-model="filterGrupo[grupo]" ng-click="filter($event)" id="grupo-{{$index}}" grupo="{{grupo}}">
-					<label for="grupo-{{$index}}">
-						<i class=" icon-eye-open {{grupo.toLowerCase()}}-legend"></i> <b>{{grupo}}</b>
-					</label>
-				</span>
+			<div class="relative">
+				<div class="half-width">
+					<span ng-repeat="(grupo, value) in filterGrupo" class="filter-repo right grupo">
+						<input type="checkbox" ng-model="filterGrupo[grupo]" ng-click="filter($event)" id="grupo-{{$index}}" grupo="{{grupo}}">
+						<label for="grupo-{{$index}}">
+							<i class=" icon-eye-open {{grupo.toLowerCase()}}-legend"></i> <b>{{grupo}}</b>
+						</label>
+					</span>
+				</div>
 			</div>
 			
-			<div class="half-width">
-				<span ng-repeat="(grupo, array) in organizedByGrupo" style="height: {{array.length / species.length * 300}}px" class="porcentage {{grupo}}-legend">{{array.length}}</span>
+			<div class="relative">
+				<div class="half-width">
+					<span ng-repeat="(grupo, array) in organizedByGrupo" style="height: {{array.length / species.length * 300}}px" class="porcentage {{grupo}}-legend">{{array.length}}</span>
+				</div>
 			</div>
 
-			<div class="half-width">
-				<span ng-repeat="(categoria, value) in filterCategoria" class="filter-repo right criterio">
-					<input type="checkbox" ng-model="filterCategoria[categoria]" ng-click="filter($event)" id="categoria-{{$index}}" categoria="{{categoria}}">
-					<label for="categoria-{{$index}}">
-						<i class=" icon-eye-open {{categoria.split(' - ')[0].toLowerCase()}}-legend"></i> 
-						<b>{{ categoria.split('-')[categoria.split('-').length -1] }}</b>
-					</label>
-				</span>
+			<div class="relative">
+				<div class="half-width">
+					<span ng-repeat="(categoria, value) in filterCategoria" class="filter-repo right criterio">
+						<input type="checkbox" ng-model="filterCategoria[categoria]" ng-click="filter($event)" id="categoria-{{$index}}" categoria="{{categoria}}">
+						<label for="categoria-{{$index}}">
+							<i class=" icon-eye-open {{categoria.split(' - ')[0].toLowerCase()}}-legend"></i> 
+							<b>{{ categoria.split('-')[categoria.split('-').length -1] }}</b>
+						</label>
+					</span>
+				</div>
 			</div>
 
-			<div class="half-width">
-				<span ng-repeat="(criterio, array) in organized" style="height: {{array.length / species.length * 300}}px" class="porcentage {{criterio}}-porcentage">{{array.length}}</span>
+			<div class="relative">
+				<div class="half-width">
+					<span ng-repeat="(criterio, array) in organized" style="height: {{array.length / species.length * 300}}px" class="porcentage {{criterio}}-porcentage">{{array.length}}</span>
+				</div>
 			</div>
 		</div>
 		
