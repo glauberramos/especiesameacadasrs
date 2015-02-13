@@ -80,7 +80,17 @@ p, h1 {
 	font-size: 0.9em;
 }
 
+.filter-repo label {
+	cursor: pointer;
+}
+
 .filter-repo {
+	 -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 	display: inline-block;
 	cursor: pointer;
 	margin-bottom: 10px;
@@ -217,6 +227,11 @@ img.icon {
 	display: inline-block;
 	width: 30px;
 	margin: 0.5em;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	min-height: 23px;
 }
 
 .anfíbios-legend {

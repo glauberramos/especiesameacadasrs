@@ -21,7 +21,7 @@
 			</div>
 			
 			<div class="half-width">
-				<span ng-repeat="(grupo, array) in organizedByGrupo" style="height: {{array.length / species.length * 300}}px" class="porcentage {{grupo}}-legend"></span>
+				<span ng-repeat="(grupo, array) in organizedByGrupo" style="height: {{array.length / species.length * 300}}px" class="porcentage {{grupo}}-legend">{{array.length}}</span>
 			</div>
 
 			<div class="half-width">
@@ -35,7 +35,7 @@
 			</div>
 
 			<div class="half-width">
-				<span ng-repeat="(criterio, array) in organized" style="height: {{array.length / species.length * 300}}px" class="{{criterio}}-porcentage"></span>
+				<span ng-repeat="(criterio, array) in organized" style="height: {{array.length / species.length * 300}}px" class="porcentage {{criterio}}-porcentage">{{array.length}}</span>
 			</div>
 		</div>
 		
