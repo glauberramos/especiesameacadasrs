@@ -45,8 +45,7 @@
 		<section id="species">
 			<div ng-repeat="specie in filteredSpecies | filter:search:strict | orderBy:'Categoria'" class="specie {{getCriterio(specie)}}">
 				<h1>{{ specie["Nome científico"] }}</h1>
-				<img src="{{specie['Grupo']}}.svg" />
-				<p>{{ getNomeComum(specie["Nomes Comuns"]) }}</p>
+				<p><img class="icon" src="{{specie['Grupo']}}.svg" />{{ getNomeComum(specie["Nomes Comuns"]) }}</p>
 				<p>{{ specie["Ordem"] }} - {{ specie["Familia"] }}</p>
 				<!-- <img src="{{ specie.url }}" id="specie{{ $index }}" /> -->
 			</div>

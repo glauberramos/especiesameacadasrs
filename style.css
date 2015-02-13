@@ -137,6 +137,12 @@ b {
 	vertical-align: bottom;
 }
 
+img.icon {
+	width: 30px;
+	display: inline-block;
+	margin-top: 0;
+}
+
 .re-porcentage {
 	background: #760000;
 	display: inline-block;
