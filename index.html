@@ -15,7 +15,7 @@
 				<span ng-repeat="(grupo, value) in filterGrupo" class="filter-repo right">
 					<input type="checkbox" ng-model="filterGrupo[grupo]" ng-click="filter($event)" id="grupo-{{$index}}" grupo="{{grupo}}">
 					<label for="grupo-{{$index}}">
-						<i class=" icon-eye-open {{grupo.toLowerCase()}}-legend"></i> {{grupo}}
+						<i class=" icon-eye-open {{grupo.toLowerCase()}}-legend"></i> <b>{{grupo}}</b>
 					</label>
 				</span>
 			</div>
@@ -25,7 +25,13 @@
 			</div>
 
 			<div class="half-width">
-				<span ng-repeat="(criterio, array) in organized" class="criterio"><span class="{{criterio}}-legend"></span><b>{{ array[0]["Categoria"].split('-')[array[0]["Categoria"].split('-').length -1] }}</b></span>
+				<span ng-repeat="(categoria, value) in filterCategoria" class="filter-repo right criterio">
+					<input type="checkbox" ng-model="filterCategoria[categoria]" ng-click="filter($event)" id="categoria-{{$index}}" categoria="{{categoria}}">
+					<label for="categoria-{{$index}}">
+						<i class=" icon-eye-open {{criterio}}-legend"></i> 
+						<b>{{ categoria.split('-')[categoria.split('-').length -1] }}</b>
+					</label>
+				</span>
 			</div>
 
 			<div class="half-width">

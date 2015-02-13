@@ -1,6 +1,7 @@
 angular.module('Species', []).
 controller('speciesController', function($scope) {
     $scope.filterGrupo = {"Aves":true,"Anfíbios":true,"Invertebrados":true,"Peixes":true,"Répteis":true,"Mamíferos":true};
+    $scope.filterCategoria = {"CR - Ameaçado - Criticamente em perigo": true, "EN - Ameaçado - Em perigo": true, "VU - Ameaçado - Vulnerável": true, "RE - Regionalmente extinto": true}
 
     $scope.getNomeComum = function(nomeComum) {
         return nomeComum.replace(/-/g, ' ');
@@ -41,12 +42,17 @@ controller('speciesController', function($scope) {
 
     $scope.filter = function($event) {
         var checkbox = $event.target;
-        $scope.filterGrupo[$(checkbox).attr('grupo')] = checkbox.checked;
+        
+        if ($(checkbox).attr('grupo')) {
+            $scope.filterGrupo[$(checkbox).attr('grupo')] = checkbox.checked;
+        } else {
+            $scope.filterCategoria[$(checkbox).attr('categoria')] = checkbox.checked;
+        }
 
         $scope.filteredSpecies = [];
 
         $($scope.species).each(function(index, element) {
-            if($scope.filterGrupo[element["Grupo"]] === true) {
+            if($scope.filterGrupo[element["Grupo"]] === true && $scope.filterCategoria[element["Categoria"]] ) {
                 $scope.filteredSpecies.push(element);
             }
         });
