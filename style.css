@@ -1,0 +1,241 @@
+.specie {
+	width: 18%;
+	display: inline-block;
+	min-height: 230px;
+	border-top: 7px solid #FF5D5D;
+	vertical-align: top;
+	margin: 0.7em;
+	background: #f3f3f3;
+}
+
+.info {
+	background: #eee;
+	border: 1px solid #ddd;
+	padding: 1em;
+	margin: 0 1em;
+	padding-top: 0;
+	height: 120px;
+}
+
+body {
+	font-family: "OpenSans";
+	font-size: 16px;
+}
+
+img {
+	width: 100%;
+	display: block;
+}
+
+h1 {
+	font-size: 1.7em;
+	padding: 0.8em 0.5em;
+}
+
+.specie img {
+	margin-top: 1em;
+}
+
+.specie h1 {
+	font-size: 1.15em;
+}
+
+p {
+	padding: 0 0.5em;
+}
+
+p, h1 {
+	margin: 0;
+	color: #333;
+}
+
+.re {
+	border-top: 10px solid #760000;
+}
+
+.cr {
+	border-top: 10px solid #FF5D5D;
+}
+
+.vu {
+	border-top: 10px solid #FFB300;
+}
+
+.en {
+	border-top: 10px solid #FB8C00;
+}
+
+.filter-repo {
+	display: inline-block;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
+
+.filter-repo i {
+	margin-right: 3px;
+	background: #6a6a6a;
+	padding: 5px;
+	border-radius: 3px;
+	font-size: 1em;
+	color: #777;
+}
+
+.filter-repo input[type="checkbox"]:checked + label i {
+	color: white;
+}
+
+.filter-repo input[type="checkbox"] {
+	display: none;
+}
+
+.filter-repo input[type="checkbox"]:checked + label i.anfíbios-legend {
+	background: #29B6F6;	
+}
+
+.filter-repo input[type="checkbox"]:checked + label i.aves-legend {
+	background: #26C6DA;	
+}
+
+.filter-repo input[type="checkbox"]:checked + label i.invertebrados-legend {
+	background: #26A69A;
+}
+
+.filter-repo input[type="checkbox"]:checked + label i.mamíferos-legend {
+	background: #66BB6A;	
+}
+
+.filter-repo input[type="checkbox"]:checked + label i.peixes-legend {
+	background: #9CCC65;
+}
+
+.filter-repo input[type="checkbox"]:checked + label i.répteis-legend {
+	background: #D4E157;
+}
+
+b {
+	font-size: 14px;
+	width: 58%;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.criterio {
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.grupo {
+	display: inline-block;
+	width: 50%;
+	margin: 0.2em 0;
+}
+
+.half-width {
+	display: inline-block;
+	width: 24.5%;
+	vertical-align: bottom;
+}
+
+.re-porcentage {
+	background: #760000;
+	display: inline-block;
+	width: 25px;
+	margin: 0.5em;
+}
+
+.cr-porcentage {
+	background: #F4511E;
+	display: inline-block;
+	width: 25px;
+	margin: 0.5em;
+}
+
+.en-porcentage {
+	background: #FB8C00;
+	display: inline-block;
+	width: 25px;
+	margin: 0.5em;
+}
+
+.vu-porcentage {
+	background: #FFB300;
+	display: inline-block;
+	width: 25px;
+	margin: 0.5em;
+}
+
+.re-legend {
+	background: #760000;
+	display: inline-block;
+	border-radius: 3px;
+	height: 25px;
+	width: 25px;
+	margin: 0 0.5em;
+}
+
+.cr-legend {
+	background: #F4511E;
+	display: inline-block;
+	border-radius: 3px;
+	height: 25px;
+	width: 25px;
+	margin: 0 0.5em;
+}
+
+.en-legend {
+	background: #FB8C00;
+	display: inline-block;
+	border-radius: 3px;
+	height: 25px;
+	width: 25px;
+	margin: 0 0.5em;
+}
+
+.vu-legend {
+	background: #FFB300;
+	display: inline-block;
+	border-radius: 3px;
+	height: 25px;
+	width: 25px;
+	margin: 0 0.5em;
+}
+
+.grupo span {
+	width: 25px;
+	height: 25px;
+	border-radius: 3px;
+	display: inline-block;
+	margin: 0 0.5em;
+	vertical-align: top;
+}
+
+.porcentage {
+	display: inline-block;
+	width: 30px;
+	margin: 0.5em;
+}
+
+.anfíbios-legend {
+	background: #29B6F6;	
+}
+
+.aves-legend {
+	background: #26C6DA;	
+}
+
+.invertebrados-legend {
+	background: #26A69A;
+}
+
+.mamíferos-legend {
+	background: #66BB6A;	
+}
+
+.peixes-legend {
+	background: #9CCC65;
+}
+
+.répteis-legend {
+	background: #D4E157;
+}

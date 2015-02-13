@@ -1,0 +1,54 @@
+<html ng-app="Species" ng-controller="speciesController">
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="fontAwesome.css">
+		<script type="text/javascript" src="angular.min.js"></script>
+	</head>
+	<body ng-init="init()">
+		<h1>Lista de animais ameaçados do RS</h1>
+
+		<div class="info">
+			<div class="half-width">
+				<span ng-repeat="(grupo, value) in filterGrupo" class="filter-repo right">
+					<input type="checkbox" ng-model="filterGrupo[grupo]" ng-click="filter($event)" id="grupo-{{$index}}" grupo="{{grupo}}">
+					<label for="grupo-{{$index}}">
+						<i class=" icon-eye-open {{grupo.toLowerCase()}}-legend"></i> {{grupo}}
+					</label>
+				</span>
+			</div>
+			
+			<div class="half-width">
+				<span ng-repeat="(grupo, array) in organizedByGrupo" style="height: {{array.length / species.length * 300}}px" class="porcentage {{grupo}}-legend"></span>
+			</div>
+
+			<div class="half-width">
+				<span ng-repeat="(criterio, array) in organized" class="criterio"><span class="{{criterio}}-legend"></span><b>{{ array[0]["Categoria"].split('-')[array[0]["Categoria"].split('-').length -1] }}</b></span>
+			</div>
+
+			<div class="half-width">
+				<span ng-repeat="(criterio, array) in organized" style="height: {{array.length / species.length * 300}}px" class="{{criterio}}-porcentage"></span>
+			</div>
+		</div>
+		
+		<label for="search-species">Pesquisa por espécies</label>
+		<input id="search-species" ng-model="search.$">
+
+		<section id="species">
+			<div ng-repeat="specie in filteredSpecies | filter:search:strict | orderBy:'Categoria'" class="specie {{getCriterio(specie)}}">
+				<h1>{{ specie["Nome científico"] }}</h1>
+				<img src="{{specie['Grupo']}}.svg" />
+				<p>{{ getNomeComum(specie["Nomes Comuns"]) }}</p>
+				<p>{{ specie["Ordem"] }} - {{ specie["Familia"] }}</p>
+				<!-- <img src="{{ specie.url }}" id="specie{{ $index }}" /> -->
+			</div>
+		</section>
+	</body>
+	
+	<!-- <script type="text/javascript" src="jsapi.js"></script> -->
+	<script src="jquery.js"></script>
+	<script src="speciesController.js"></script>
+	<!-- <script src="script.js"></script> -->
+</html>
