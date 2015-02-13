@@ -12,7 +12,7 @@
 
 		<div class="info">
 			<div class="half-width">
-				<span ng-repeat="(grupo, value) in filterGrupo" class="filter-repo right">
+				<span ng-repeat="(grupo, value) in filterGrupo" class="filter-repo right grupo">
 					<input type="checkbox" ng-model="filterGrupo[grupo]" ng-click="filter($event)" id="grupo-{{$index}}" grupo="{{grupo}}">
 					<label for="grupo-{{$index}}">
 						<i class=" icon-eye-open {{grupo.toLowerCase()}}-legend"></i> <b>{{grupo}}</b>
