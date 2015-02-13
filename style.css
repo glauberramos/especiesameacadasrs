@@ -236,6 +236,11 @@ img.icon {
 	text-align: center;
 	vertical-align: bottom;
 	min-height: 23px;
+
+	-moz-transition: height 1s ease;
+    -webkit-transition: height 1s ease;
+    -o-transition: height 1s ease;
+    transition: height 1s ease;
 }
 
 .anfíbios-legend {
