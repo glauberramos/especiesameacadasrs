@@ -8,7 +8,7 @@
 		<script type="text/javascript" src="angular.min.js"></script>
 	</head>
 	<body ng-init="init()">
-		<h1>Lista de animais ameaçados do RS</h1>
+		<h1>Animais ameaçados do RS</h1>
 
 		<div class="info">
 			<div class="relative">
@@ -57,7 +57,7 @@
 				<h1>{{ specie["Nome científico"] }}</h1>
 				<p><img class="icon" src="{{specie['Grupo']}}.svg" />{{ getNomeComum(specie["Nomes Comuns"]) }}</p>
 				<p>{{ specie["Ordem"] }} - {{ specie["Familia"] }}</p>
-				<!-- <img src="{{ specie.url }}" id="specie{{ $index }}" /> -->
+				<img src="{{ specie.url }}" id="specie{{ $index }}" />
 			</div>
 		</section>
 	</body>
