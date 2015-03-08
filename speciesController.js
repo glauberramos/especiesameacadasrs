@@ -140,7 +140,7 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Psittaciformes",
         "Familia": "Psittacidae",
-        "url": "http://www.free-pet-wallpapers.com/free-pet-wallpapers/free-pet-desktop-backgrounds/929158883.jpg"
+        "url": "http://www.amanhamaisfeliz.com.br/images/zoo/maracana-de-colar.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sporophila frontalis",
