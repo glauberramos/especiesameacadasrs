@@ -34,7 +34,8 @@ controller('speciesController', function($scope) {
                         "Ordem": this.get('order'),
                         "Familia": this.get('family'),
                         "url": this.get('url'),
-                        "source": this.get('source')
+                        "source": this.get('source'),
+                        "id": this.id
                     };
 
                     $scope.species.push(especime);
@@ -47,6 +48,54 @@ controller('speciesController', function($scope) {
             }
         });
     };
+
+    $scope.populateModal = function(id) {
+        Parse.initialize("LEIS9Ae6fMWOVoFxihLmEi0moBfGYb6CsrtYyRZn", "7SEvsIu2sbTDVJU8VAGaBuaShzdTBDkHt80sSvD1");
+
+        var Specie = Parse.Object.extend("specie");
+        var query = new Parse.Query(Specie);
+        query.equalTo("objectId", id);
+
+        query.find({
+            success: function(results) {
+                var especime = {
+                    "Grupo": results[0].get('group'),
+                    "Nome científico": results[0].get('scientificName'),
+                    "Nomes Comuns": results[0].get('commonName'),
+                    "Categoria": results[0].get('category'),
+                    "Critérios": results[0].get('criteria'),
+                    "Classe": results[0].get('class'),
+                    "Ordem": results[0].get('order'),
+                    "Familia": results[0].get('family'),
+                    "url": results[0].get('url'),
+                    "source": results[0].get('source'),
+                    "id": results[0].id
+                };
+
+                $scope.originalObject = results[0];
+                $scope.viewSpecie = especime;
+                $scope.$apply();
+            }
+        });
+    };
+
+    $scope.saveObject = function() {
+        $scope.originalObject.set('scientificName', $scope.viewSpecie['Nome científico']);
+        $scope.originalObject.set('group', $scope.viewSpecie['Grupo']);
+        $scope.originalObject.set('commonName', $scope.viewSpecie['Nomes Comuns']);
+        $scope.originalObject.set('category', $scope.viewSpecie['Categoria']);
+        $scope.originalObject.set('criteria', $scope.viewSpecie['Critérios']);
+        $scope.originalObject.set('class', $scope.viewSpecie['Classe']);
+        $scope.originalObject.set('order', $scope.viewSpecie['Ordem']);
+        $scope.originalObject.set('family', $scope.viewSpecie['Familia']);
+        $scope.originalObject.set('url', $scope.viewSpecie['url']);
+        $scope.originalObject.set('source', $scope.viewSpecie['source']);
+        $scope.originalObject.save();
+
+        window.location.hash = '';
+
+        // $scope.loadData();
+    }
 
     $scope.init = function() {
         $scope.loadData();

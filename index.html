@@ -3,6 +3,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width,initial-scale=1">
 	<head>
+		<link rel="stylesheet" type="text/css" href="modal.css">
+		<link rel="stylesheet" type="text/css" href="buttons.css">
 		<link rel="stylesheet" href="style.css">
 		<link rel="stylesheet" href="fontAwesome.css">
 		<script type="text/javascript" src="angular.min.js"></script>
@@ -54,11 +56,76 @@
 
 		<section id="species">
 			<div ng-repeat="specie in filteredSpecies | filter:search:strict | orderBy:'Categoria'" class="specie {{getCriterio(specie)}}">
+				<a ng-click="populateModal(specie['id'])" class="button button-rounded button-flat-primary" href="#modal">Edit</a>
 				<h1>{{ specie["Nome científico"] }}</h1>
 				<p><img class="icon" src="{{specie['Grupo'].toLowerCase()}}.svg" />{{ getNomeComum(specie["Nomes Comuns"]) }}</p>
 				<p>{{ specie["Ordem"] }} - {{ specie["Familia"] }}</p>
 				<img src="{{ specie.url }}" id="specie{{ $index }}" />
 			</div>
+		</section>
+
+		<section class="modal--show" id="modal" tabindex="-1"
+        role="dialog" aria-labelledby="modal-label" aria-hidden="true">
+
+	    <div class="modal-inner">
+	        <header id="modal-label"><h2>Espécie</h2></header>
+	        <div class="modal-content">
+	        	
+	        	<div>
+	        		<label for="name-input">Nome científico</label>
+	        		<input id="scientific-name" ng-model="viewSpecie['Nome científico']" type="text" />
+	        	</div>
+				
+				<div class="inline">
+		        	<label for="product-input">Nome popular</label>
+		        	<input id="common-name" ng-model="viewSpecie['Nomes Comuns']" type="text" />
+	        	</div>
+
+				<div class="inline">
+		        	<label for="research-input">Grupo</label>
+		        	<input id="group" ng-model="viewSpecie['Grupo']" type="text" />
+	        	</div>
+
+				<div class="inline">
+		        	<label for="visual-input">Categoria</label>
+		        	<input id="category" ng-model="viewSpecie['Categoria']" type="text" />
+				</div>
+
+				<div class="inline">
+		        	<label for="front-input">Critérios</label>
+		        	<input id="criteria" ng-model="viewSpecie['Critérios']" type="text" />
+	        	</div>
+
+				<div class="inline">
+	        		<label for="interaction-input">Classe</label>
+	        		<input id="class" ng-model="viewSpecie['Classe']" type="text" />
+	        	</div>
+
+	        	<div class="inline">
+	        		<label for="interaction-input">Ordem</label>
+	        		<input id="order" ng-model="viewSpecie['Ordem']" type="text" />
+	        	</div>
+
+	        	<div class="inline">
+	        		<label for="interaction-input">Família</label>
+	        		<input id="family" ng-model="viewSpecie['Familia']" type="text" />
+	        	</div>
+
+	        	<div class="inline">
+	        		<label for="interaction-input">Url da imagem</label>
+	        		<input id="url" ng-model="viewSpecie['url']" type="text" />
+	        	</div>
+
+	        	<div class="inline">
+	        		<label for="interaction-input">Fonte da imagem</label>
+	        		<input id="source" ng-model="viewSpecie['source']" type="text" />
+	        	</div>
+	        </div>
+	        <footer><button class="button button-rounded button-block button-flat-action" ng-click="saveObject()">Save</button></footer>
+	    </div>
+
+	    <a href="#!" class="modal-close" title="Close this modal" data-close="Close"
+	        data-dismiss="modal">?</a>
 		</section>
 	</body>
 	
