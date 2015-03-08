@@ -11,6 +11,7 @@
 // 	    	// $('#specie' + index).attr('src', url);
 
 // 	    	element['url'] = url;
+// 	    	element['source'] = imageSearch.results[0].originalContextUrl;
 // 		}
 // 	}
 

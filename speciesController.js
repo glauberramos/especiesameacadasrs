@@ -70,7 +70,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/IMG_4440-1.JPG"
+        "url": "http://ibc.lynxeds.com/files/pictures/IMG_4440-1.JPG",
+        "source": "http://ibc.lynxeds.com/photo/strange-tailed-tyrant-alectrurus-risora/male"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Anodorhynchus glaucus",
@@ -80,7 +81,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Psittaciformes",
         "Familia": "Psittacidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Anodorhynchus_glaucus.jpg/220px-Anodorhynchus_glaucus.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Anodorhynchus_glaucus.jpg/220px-Anodorhynchus_glaucus.jpg",
+        "source": "http://en.wikipedia.org/wiki/Glaucous_macaw"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Falco deiroleucus",
@@ -90,7 +92,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Falconidae",
-        "url": "http://neotropical.birds.cornell.edu/portal/image/image_gallery?uuid=6693d3b8-d91a-4ef3-a327-9255db7b9d96&groupId=11003"
+        "url": "http://neotropical.birds.cornell.edu/portal/image/image_gallery?uuid=6693d3b8-d91a-4ef3-a327-9255db7b9d96&groupId=11003",
+        "source": "http://www.birds.cornell.edu/obf"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Lophornis magnificus",
@@ -100,7 +103,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Apodiformes",
         "Familia": "Trochilidae",
-        "url": "http://www.dphotographer.co.uk/users/16194/thm1024/5.jpg"
+        "url": "http://www.dphotographer.co.uk/users/16194/thm1024/5.jpg",
+        "source": "http://www.dphotographer.co.uk/image/215564/topetinhovermelho_lophornis_magnificus"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Morphnus guianensis",
@@ -110,7 +114,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Morphnus_guianensis_eating_green_snake_-Bolivia-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Morphnus_guianensis_eating_green_snake_-Bolivia-8.jpg",
+        "source": "http://en.wikipedia.org/wiki/Crested_eagle"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Penelope superciliaris",
@@ -120,7 +125,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Galliformes",
         "Familia": "Cracidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/213_Penelope_superciliaris_Serra_da_CapivaraPI_06_X_2008_CA.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/213_Penelope_superciliaris_Serra_da_CapivaraPI_06_X_2008_CA.jpg",
+        "source": "http://ibc.lynxeds.com/photo/rusty-margined-guan-penelope-superciliaris/same-situation-day-josep-v%C3%ADdeo"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Platyrinchus leucoryphus",
@@ -130,7 +136,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://cdn2.arkive.org/media/A3/A30290F5-ED67-4719-9988-6C19F48322EF/Presentation.Large/Russet-winged-spadebill-perched-on-branch.jpg"
+        "url": "http://cdn2.arkive.org/media/A3/A30290F5-ED67-4719-9988-6C19F48322EF/Presentation.Large/Russet-winged-spadebill-perched-on-branch.jpg",
+        "source": "http://www.arkive.org/russet-winged-spadebill/platyrinchus-leucoryphus/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Primolius maracana",
@@ -140,7 +147,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Psittaciformes",
         "Familia": "Psittacidae",
-        "url": "http://www.amanhamaisfeliz.com.br/images/zoo/maracana-de-colar.jpg"
+        "url": "http://www.free-pet-wallpapers.com/free-pet-wallpapers/free-pet-desktop-backgrounds/929158883.jpg",
+        "source": "http://www.free-pet-wallpapers.com/Birds-pet-wallpapers/Parrot-birds/Blue-winged-macaw-(Primolius-maracana).html"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sporophila frontalis",
@@ -150,7 +158,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://cdn1.arkive.org/media/0F/0F6BE849-55EF-4044-9EFE-2E7D76B7CF13/Presentation.Large/Buffy-fronted-seedeater-perched.jpg"
+        "url": "http://cdn1.arkive.org/media/0F/0F6BE849-55EF-4044-9EFE-2E7D76B7CF13/Presentation.Large/Buffy-fronted-seedeater-perched.jpg",
+        "source": "http://www.arkive.org/buffy-fronted-seedeater/sporophila-frontalis/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sturnella defilippii",
@@ -160,7 +169,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Icteridae",
-        "url": "http://cdn1.arkive.org/media/20/2041F655-EAE1-4B63-9AD3-149B19DD037A/Presentation.Large/Pampas-meadowlark-in-flight.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/IMG_9588_SCP.jpg",
+        "source": "http://ibc.lynxeds.com/photo/pampas-meadowlark-sturnella-defilippii/male"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Pteronura brasiliensis",
@@ -170,7 +180,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Mustelidae",
-        "url": "http://www.overbosch.de/photo_gallery/Pantanal/pantanal%20flashgallery%20Giant%20otter/bin/images/small/Giant_otter_Pteronura_brasiliensis_07.jpg"
+        "url": "http://www.overbosch.de/photo_gallery/Pantanal/pantanal%20flashgallery%20Giant%20otter/bin/images/small/Giant_otter_Pteronura_brasiliensis_07.jpg",
+        "source": "http://www.overbosch.de/photo_gallery/Pantanal/pantanal%20flashgallery%20Giant%20otter/index.html"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Ceratophrys ornata",
@@ -180,7 +191,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Ceratophrydae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3f/Argentine_Horned_Frog_(Ceratophrys_ornata)1.JPG"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3f/Argentine_Horned_Frog_(Ceratophrys_ornata)1.JPG",
+        "source": "http://en.wikipedia.org/wiki/Argentine_horned_frog"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Leptodactylus labyrinthicus",
@@ -190,7 +202,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Leptodactylidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Leptodactylus_labyrinthicus.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Leptodactylus_labyrinthicus.jpg",
+        "source": "http://en.wikipedia.org/wiki/Leptodactylus_labyrinthicus"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Melanophryniscus admirabilis",
@@ -200,7 +213,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Bufonidae",
-        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0212/0223.jpeg"
+        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0212/0228.jpeg",
+        "source": "http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0212+0228"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Aburria jacutinga",
@@ -210,7 +224,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Galliformes",
         "Familia": "Cracidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Aburria_jacutinga_-Parque_das_Aves-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Aburria_jacutinga_-Parque_das_Aves-8.jpg",
+        "source": "http://en.wikipedia.org/wiki/Black-fronted_piping_guan"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Automolus leucophthalmus",
@@ -220,7 +235,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Automolus_leucophthalmus_-Piraju,_Sao_Paulo,_Brazil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Automolus_leucophthalmus_-Piraju,_Sao_Paulo,_Brazil-8.jpg",
+        "source": "http://ceb.wikipedia.org/wiki/Automolus_leucophthalmus"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Coryphistera alaudina",
@@ -230,7 +246,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coryphistera_alaudina_alaudina.jpg/250px-Coryphistera_alaudina_alaudina.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coryphistera_alaudina_alaudina.jpg/250px-Coryphistera_alaudina_alaudina.jpg",
+        "source": "http://es.wikipedia.org/wiki/Coryphistera_alaudina"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Crypturellus noctivagus",
@@ -240,7 +257,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Tinamiformes",
         "Familia": "Tinamidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/3/33/Crypturellus_noctivagus_zabele_2.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/3/33/Crypturellus_noctivagus_zabele_2.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Crypturellus_noctivagus_zabele_2.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Dendrocincla turdina",
@@ -250,7 +268,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Dendrocolaptidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/5/55/Dendrocincla_turdina_-Vale_do_Ribeira,_Registro,_Sao_Paulo,_Brasil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/5/55/Dendrocincla_turdina_-Vale_do_Ribeira,_Registro,_Sao_Paulo,_Brasil-8.jpg",
+        "source": "http://www.snipview.com/q/Dendrocincla"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Diomedea dabbenena",
@@ -260,7 +279,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Diomedeidae",
-        "url": "http://cdn2.arkive.org/media/F4/F4E7F153-81FA-46DE-9DBE-E4E3BEC34485/Presentation.Large/Tristan-albatross-in-flight-dorsal-view.jpg"
+        "url": "http://cdn2.arkive.org/media/F4/F4E7F153-81FA-46DE-9DBE-E4E3BEC34485/Presentation.Large/Tristan-albatross-in-flight-dorsal-view.jpg",
+        "source": "http://www.arkive.org/tristan-albatross/diomedea-dabbenena/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Dromococcyx phasianellus",
@@ -270,7 +290,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Cuculiformes",
         "Familia": "Cuculidae",
-        "url": "http://www.faunaparaguay.com/images/Dromococcyx%20phasianellus%20HDC%20San%20Ber%20Oct%2011.JPG"
+        "url": "http://www.faunaparaguay.com/images/Dromococcyx%20phasianellus%20HDC%20San%20Ber%20Oct%2011.JPG",
+        "source": "http://www.faunaparaguay.com/dromococcyx_phasianellus.html"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Gubernatrix cristata",
@@ -280,7 +301,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Imagen_1572.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/Imagen_1572.jpg",
+        "source": "http://ibc.lynxeds.com/photo/yellow-cardinal-gubernatrix-cristata/male-perched"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Harpia harpyja",
@@ -290,7 +312,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/9/9d/Harpia_harpyja_-Miami_MetroZoo_-feeding-8a.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/9/9d/Harpia_harpyja_-Miami_MetroZoo_-feeding-8a.jpg",
+        "source": "http://en.wikipedia.org/wiki/Harpy_eagle"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Hemitriccus orbitatus",
@@ -300,7 +323,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/c/cd/Hemitriccus_orbitatus_-Parque_Estadual_da_Serra_da_Cantareira,_Sao_Paulo,_Brazil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/c/cd/Hemitriccus_orbitatus_-Parque_Estadual_da_Serra_da_Cantareira,_Sao_Paulo,_Brazil-8.jpg",
+        "source": "http://en.wikipedia.org/wiki/Eye-ringed_tody-tyrant"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Leptasthenura platensis",
@@ -310,7 +334,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "http://3.bp.blogspot.com/-6HWjm43l6yk/UY5fZeti00I/AAAAAAAAJSQ/qkXiwzP_nT0/s1600/coludito+copeton+4.jpg"
+        "url": "http://3.bp.blogspot.com/-6HWjm43l6yk/UY5fZeti00I/AAAAAAAAJSQ/qkXiwzP_nT0/s1600/coludito+copeton+4.jpg",
+        "source": "http://aves-pe.blogspot.com/2013/05/coludito-copeton-leptasthenura.html"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Spizaetus ornatus",
@@ -320,7 +345,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/5/54/Spizaetus_ornatus_crop.png"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/5/54/Spizaetus_ornatus_crop.png",
+        "source": "http://en.wikipedia.org/wiki/Ornate_hawk-eagle"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Urubitinga coronata",
@@ -330,7 +356,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "https://c2.staticflickr.com/8/7104/7179231384_f391c76837.jpg"
+        "url": "http://focusingonwildlife.com/news/wp-content/uploads/2012/05/Urubitinga-coronata-S%C3%A3o-Roque-de-Minas-22-04-2012-IMG_13990.jpg",
+        "source": "http://focusingonwildlife.com/news/birding-in-brazil-third-of-four-days-pho…national-park/urubitinga-coronata-sao-roque-de-minas-22-04-2012-img_13990/"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla renana",
@@ -340,7 +367,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://www.scielo.br/img/revistas/nau/v21n2/a08tab01.jpg"
+        "url": "http://www.scielo.br/img/revistas/nau/v21n2/a08tab01.jpg",
+        "source": "http://www.scielo.br/scielo.php?pid=S0104-64972013000200008&script=sci_arttext"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Narope guilhermei",
@@ -350,7 +378,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Nymphalidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/narope0019.jpg"
+        "url": "http://www.butterfliesofamerica.com/Lamas/narope0019.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/narope_guilhermei_types.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Olivancillaria teaguei",
@@ -360,7 +389,8 @@ controller('speciesController', function($scope) {
         "Classe": "Gastropoda",
         "Ordem": "Neogastropoda",
         "Familia": "Olividae",
-        "url": "http://www.gastropods.com/Shell_Images/N-O/Olivancillaria_teaguei_2.jpg"
+        "url": "http://www.gastropods.com/Shell_Images/N-O/Olivancillaria_teaguei_2.jpg",
+        "source": "http://www.gastropods.com/1/Shell_9601.shtml"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Stichelia pelotensis",
@@ -370,7 +400,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Riodinidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/stichelia0009.jpg"
+        "url": "http://www.butterfliesofamerica.com/Lamas/stichelia0009.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/stichelia_pelotensis_types.htm"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Balaenoptera musculus",
@@ -380,7 +411,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Cetacea",
         "Familia": "Balaenopteridae",
-        "url": "https://pbs.twimg.com/media/A90qf_eCIAAcI_a.jpg:large"
+        "url": "https://pbs.twimg.com/media/A90qf_eCIAAcI_a.jpg:large",
+        "source": "https://twitter.com/guratanfoto/status/278425481064357888"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Blastocerus dichotomus",
@@ -390,7 +422,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Artiodactyla",
         "Familia": "Cervidae",
-        "url": "http://www.faunaparaguay.com/images/Blastocerus%20dichotomus%201%20male%20itaipu%20zoo%20mar%2008.jpg"
+        "url": "http://www.faunaparaguay.com/images/Blastocerus%20dichotomus%201%20male%20itaipu%20zoo%20mar%2008.jpg",
+        "source": "http://www.faunaparaguay.com/blastocerusdichotomus.html"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Chrysocyon brachyurus",
@@ -400,7 +433,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Canidae",
-        "url": "http://s3.amazonaws.com/everystockphoto/fspid31/55/03/94/2/chrysocyon-brachyurus-mane-5503942-o.jpg"
+        "url": "http://s3.amazonaws.com/everystockphoto/fspid31/55/03/94/2/chrysocyon-brachyurus-mane-5503942-o.jpg",
+        "source": "http://www.everystockphoto.com/photo.php?imageId=11531452"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Myrmecophaga tridactyla",
@@ -410,7 +444,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Xenarthra",
         "Familia": "Myrmecophagidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/8/89/Myrmecophaga_tridactyla_-Detroit_Zoo,_Michigan,_USA-8a_(1).jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/8/89/Myrmecophaga_tridactyla_-Detroit_Zoo,_Michigan,_USA-8a_(1).jpg",
+        "source": "http://en.wikipedia.org/wiki/Giant_anteater"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Ozotoceros bezoarticus",
@@ -420,7 +455,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Artiodactyla",
         "Familia": "Cervidae",
-        "url": "https://themoderndayhippy.files.wordpress.com/2012/11/dsc_03061.jpg"
+        "url": "https://themoderndayhippy.files.wordpress.com/2012/11/dsc_03061.jpg",
+        "source": "https://themoderndayhippy.wordpress.com/2012/11/23/pampas-deer-ozotoceros-bezoarticus/"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Panthera onca",
@@ -430,7 +466,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Felidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/5/51/Panthera_onca_-Chester_Zoo,_Cheshire,_England-8a_(4).jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/5/51/Panthera_onca_-Chester_Zoo,_Cheshire,_England-8a_(4).jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Panthera_onca_-Chester_Zoo,_Cheshire,_England-8a_(4).jpg"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Pontoporia blainvillei",
@@ -440,7 +477,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Cetacea",
         "Familia": "Pontoporiidae",
-        "url": "http://www.cms.int/reports/small_cetaceans/data/P_blainvillei/P%20blainvillei_wurtz.jpg"
+        "url": "http://www.cms.int/reports/small_cetaceans/data/P_blainvillei/P%20blainvillei_wurtz.jpg",
+        "source": "http://www.cms.int/reports/small_cetaceans/data/P_blainvillei/p_blainvillei.htm"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Tapirus terrestris",
@@ -450,7 +488,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Perissodactyla",
         "Familia": "Tapiridae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/7/75/Tapirus_terrestris_(1)_by_JM_Rosier.jpg"
+        "url": "http://focusingonwildlife.com/news/wp-content/uploads/2011/12/South-American-Tapir-Tapirus-terrestris.jpg",
+        "source": "http://focusingonwildlife.com/news/state-of-the-maya-biosphere-reserve/south-american-tapir-tapirus-terrestris/"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Tayassu pecari",
@@ -460,7 +499,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Artiodactyla",
         "Familia": "Tayassuidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/2/2a/Tayassu_pecari_-Brazil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/2/2a/Tayassu_pecari_-Brazil-8.jpg",
+        "source": "http://pt.wikipedia.org/wiki/Queixada"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias adloffi",
@@ -470,7 +510,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/c/c9/Austrolebias_adloffi.jpg"
+        "url": "http://img413.imageshack.us/img413/708/adloffi01nm4.jpg",
+        "source": "http://grandkillis.blogspot.com/2008/05/austrolebias-adloffi-porto-alegre-male.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias alexandri",
@@ -480,7 +521,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://zoonews.ge/wp-content/uploads/Austrolebias-alexandri-.jpg"
+        "url": "http://zoonews.ge/wp-content/uploads/Austrolebias-alexandri-.jpg",
+        "source": "http://zoonews.ge/kollis-gvaris-tevzebis-galerea/austrolebias-alexandri/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias arachan",
@@ -490,7 +532,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.aquabid.com/uploads/fwkillifishe1299192762.jpg"
+        "url": "http://www.aquabid.com/uploads/fwkillifishe1299192762.jpg",
+        "source": "http://www.aquabid.com/cgi-bin/auction/closed.cgi?view_closed_item&fwkillifishe1304842009"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias cyaneus",
@@ -500,7 +543,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://akwa-mania.mud.pl/ryby/ryby/rybya/Austrolebias%20cyaneus.jpg"
+        "url": "http://akwa-mania.mud.pl/ryby/ryby/rybya/Austrolebias%20cyaneus.jpg",
+        "source": "http://akwa-mania.mud.pl/ryby/ryby/rybya/Austrolebias%20cyaneus.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias ibicuiensis",
@@ -510,7 +554,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.scielo.br/img/revistas/ni/v6n2/04f1.jpg"
+        "url": "https://cientistadigital.files.wordpress.com/2012/09/116.jpg",
+        "source": "https://cientistadigital.wordpress.com/2012/09/24/livro-eletronico-da-especie-ameacada-austrole/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias jaegari",
@@ -520,7 +565,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.fishbase.org/images/thumbnails/jpg/tn_Aujae_u0.jpg"
+        "url": "http://www.fishbase.org/images/thumbnails/jpg/tn_Aujae_u0.jpg",
+        "source": "http://www.fishbase.org/identification/SpeciesList.php?genus=Austrolebias"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias juanlangi",
@@ -530,7 +576,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.stamps4fish.co.uk/images/FISH/Class_F%20(newworld/Austrolebias_juanlangi.jpg"
+        "url": "http://www.stamps4fish.co.uk/images/FISH/Class_F%20(newworld/Austrolebias_juanlangi.jpg",
+        "source": "http://www.stamps4fish.co.uk/fishclub/FISH/FAMILY_RIVULIDAE/Austrolebias_juanlangi%20(Paso%20Aquior).htm"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias litzi",
@@ -540,7 +587,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://imageshack.us/a/img850/4950/dsc09232b.jpg"
+        "url": "http://imageshack.us/a/img850/4950/dsc09232b.jpg",
+        "source": "http://www.aquabid.com/cgi-bin/auction/auction.cgi?fwkillifishe&1366689390"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias luteoflammulatus",
@@ -550,7 +598,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.zipcodezoo.com/hp350/Austrolebias_luteoflammulatus_0.jpg"
+        "url": "http://www.zipcodezoo.com/hp350/Austrolebias_luteoflammulatus_0.jpg",
+        "source": "http://zipcodezoo.com/photographers/marcelo%20loureiro.asp"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias nachtigalli",
@@ -560,7 +609,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.fishbase.org/images/thumbnails/jpg/tn_Aunac_u1.jpg"
+        "url": "http://www.fishbase.org/images/species/Aunac_u0.jpg",
+        "source": "http://www.fishbase.org/Photos/ThumbnailsSummary.php?ID=62900"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias paucisquama",
@@ -570,7 +620,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.aquabid.com/uploads/fwkillifishe1333822651.jpg"
+        "url": "http://www.aquabid.com/uploads/fwkillifish1318236547.jpg",
+        "source": "http://www.aquabid.com/cgi-bin/auction/closed.cgi?view_closed_item&fwkillifish1318236547"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias prognathus",
@@ -580,7 +631,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.ac.auone-net.jp/~adk/Megalebias%20prognathus1.jpg"
+        "url": "http://www.ac.auone-net.jp/~adk/Megalebias%20prognathus1.jpg",
+        "source": "http://www.ac.auone-net.jp/~adk/Megalebias%20prognathus.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias univentripinnis",
@@ -590,7 +642,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.fishbase.org/images/species/Aumel_u0.jpg"
+        "url": "http://www.fishbase.org/images/species/Aumel_u0.jpg",
+        "source": "http://www.fishbase.org/identification/SpeciesList.php?genus=Austrolebias"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias varzeae",
@@ -600,7 +653,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.scielo.br/img/revistas/ni/v2n1/a03fig01.gif"
+        "url": "http://www.scielo.br/img/revistas/ni/v2n1/a03fig01.gif",
+        "source": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1679-62252004000100003"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias vazferreirai",
@@ -610,7 +664,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.srars.org/aphanius/aquabid/Austrolebias%20vazferreirai%20%C2%ABParque%20Rivera%C2%BB%202.jpg"
+        "url": "http://www.srars.org/aphanius/aquabid/Austrolebias%20vazferreirai%20%C2%ABParque%20Rivera%C2%BB%202.jpg",
+        "source": "http://www.aquabid.com/cgi-bin/auction/closed.cgi?view_closed_item&fwkillifishe1360449005"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias wolterstorffi",
@@ -620,7 +675,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.aquabid.com/uploads/fwkillifishe1290351643.jpg"
+        "url": "http://www.aquabid.com/uploads/fwkillifishe1304092983.jpg",
+        "source": "http://www.aquabid.com/cgi-bin/auction/closed.cgi?view_closed_item&fwkillifishe1306690075"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Brycon orbignyanus",
@@ -630,7 +686,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Characiformes",
         "Familia": "Characidae",
-        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Brorb_u1.jpg"
+        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Brorb_u1.jpg",
+        "source": "http://www.fishbase.org/summary/48557"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Carcharhinus plumbeus",
@@ -640,7 +697,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Carcharhinidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/6/6e/Carcharhinus_plumbeus_georgia.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/6/6e/Carcharhinus_plumbeus_georgia.jpg",
+        "source": "http://en.wikipedia.org/wiki/Sandbar_shark"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Carcharhinus signatus",
@@ -650,7 +708,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Carcharhinidae",
-        "url": "http://www.flmnh.ufl.edu/fish/gallery/descript/nightshark/nightshark.JPG"
+        "url": "http://www.flmnh.ufl.edu/fish/gallery/descript/nightshark/nightshark.JPG",
+        "source": "http://www.flmnh.ufl.edu/fish/gallery/descript/nightshark/nightshark.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Carcharias taurus",
@@ -660,7 +719,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Lamniformes",
         "Familia": "Odontaspididae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/1/11/Carcharias_taurus_newport.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/1/11/Carcharias_taurus_newport.jpg",
+        "source": "http://en.wikipedia.org/wiki/Sand_tiger_shark"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Characidium vestigipinne",
@@ -670,7 +730,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Characiformes",
         "Familia": "Chrenuchidae",
-        "url": "http://www.neotropical.com.br/imgs/ambiental.vidaselvagem1.jpg"
+        "url": "http://www.neotropical.com.br/imgs/ambiental.vidaselvagem1.jpg",
+        "source": "http://www.neotropical.com.br/atuacao.diagnostico-e-monitoramento-da-vida-selvagem.php"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Galeorhinus galeus",
@@ -680,7 +741,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Triakidae",
-        "url": "http://www.fishesofaustralia.net.au/Images/Image/Galeorhinus-galeus_RK.jpg"
+        "url": "http://www.fishesofaustralia.net.au/Images/Image/Galeorhinus-galeus_RK.jpg",
+        "source": "http://www.fishesofaustralia.net.au/home/species/1960"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Genidens planifrons",
@@ -690,7 +752,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Siluriformes",
         "Familia": "Ariidae",
-        "url": "http://catfishbone.acnatsci.org/Ariidae/Genidens/planifrons/images/thumbs/Genidens.planifrons.iop.thb.jpg"
+        "url": "http://catfishbone.acnatsci.org/Ariidae/Genidens/planifrons/images/thumbs/Genidens.planifrons.susp.thb.jpg",
+        "source": "http://catfishbone.acnatsci.org/Ariidae/Genidens/planifrons/dry.skeleton.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Lobotes surinamensis",
@@ -700,7 +763,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "PERCIFORMES",
         "Familia": "Lobotidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/9/92/Lobotes_surinamensis.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/9/92/Lobotes_surinamensis.jpg",
+        "source": "http://en.wikipedia.org/wiki/Atlantic_tripletail"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Mustelus fasciatus",
@@ -710,7 +774,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Triakidae",
-        "url": "http://fishbase.cn/images/species/Mufas_f0.jpg"
+        "url": "http://www.fishbase.org/images/species/Mufas_f0.jpg",
+        "source": "http://www.fishbase.org/identification/SpeciesList.php?genus=Mustelus"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Mustelus schmitti",
@@ -720,7 +785,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Triakidae",
-        "url": "http://www.inidep.edu.ar/wp-content/uploads/GATUZO.jpg"
+        "url": "http://www.inidep.edu.ar/wp-content/uploads/GATUZO.jpg",
+        "source": "http://www.inidep.edu.ar/ayuda/gatuzo-mustelus-schmitti/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Myliobatis freminvillii",
@@ -730,7 +796,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Myliobatidae",
-        "url": "http://shark-references.com/images/species/600xNxMyliobatis-freminvillii.jpg.pagespeed.ic.ZNaH-jnG-R.jpg"
+        "url": "http://shark-references.com/images/species/600xNxMyliobatis-freminvillii.jpg.pagespeed.ic.ZNaH-jnG-R.jpg",
+        "source": "http://shark-references.com/species/view/Myliobatis-freminvillii"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Myliobatis goodei",
@@ -740,7 +807,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Myliobatidae",
-        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Mygoo_u0.jpg"
+        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Mygoo_u0.jpg",
+        "source": "http://www.fishbase.org/summary/2583"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Polyprion americanus",
@@ -750,7 +818,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "PERCIFORMES",
         "Familia": "Polyprionidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/6/62/Polyprion_americanus.2_-_Aquarium_Finisterrae.JPG"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/6/62/Polyprion_americanus.2_-_Aquarium_Finisterrae.JPG",
+        "source": "http://en.wikipedia.org/wiki/Atlantic_wreckfish"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Rhinobatos horkelii",
@@ -760,7 +829,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Rhinobatidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/e/e6/Rhinobatos_horkelii.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/e/e6/Rhinobatos_horkelii.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Rhinobatos_horkelii.jpg"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Rhinoptera brasiliensis",
@@ -770,7 +840,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Myliobatidae",
-        "url": "http://cdn2.arkive.org/media/C7/C7A55052-18DC-495B-8B36-59909A9527DF/Presentation.Large/Brazilian-cownose-ray-specimen.jpg"
+        "url": "http://cdn2.arkive.org/media/C7/C7A55052-18DC-495B-8B36-59909A9527DF/Presentation.Large/Brazilian-cownose-ray-specimen.jpg",
+        "source": "http://www.arkive.org/brazilian-cownose-ray/rhinoptera-brasiliensis/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Sphyrna lewini",
@@ -780,7 +851,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Sphyrnidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/5/5a/Sphyrna_lewini_Gervais.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/5/5a/Sphyrna_lewini_Gervais.jpg",
+        "source": "http://en.wikipedia.org/wiki/Scalloped_hammerhead"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Sphyrna zygaena",
@@ -790,7 +862,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Sphyrnidae",
-        "url": "http://cdn2.arkive.org/media/8F/8F530F3C-71C5-4C5A-8042-1CB5E6B4510A/Presentation.Large/Smooth-hammerhead-swimming.jpg"
+        "url": "http://cdn2.arkive.org/media/8F/8F530F3C-71C5-4C5A-8042-1CB5E6B4510A/Presentation.Large/Smooth-hammerhead-swimming.jpg",
+        "source": "http://www.arkive.org/smooth-hammerhead/sphyrna-zygaena/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Squatina argentina",
@@ -800,7 +873,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Squatiniformes",
         "Familia": "Squatinidae",
-        "url": "http://www.geocities.ws/diversidad_animal/Fotos_peces/Squatina_argentina1.jpg"
+        "url": "http://www.geocities.ws/diversidad_animal/Fotos_peces/Squatina_argentina1.jpg",
+        "source": "http://www.geocities.ws/diversidad_animal/Paginas_peces/Squatina_argentina.htm"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Squatina guggenheim",
@@ -810,7 +884,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Squatiniformes",
         "Familia": "Squatinidae",
-        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Sqgug_m0.jpg"
+        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Sqgug_m0.jpg",
+        "source": "http://www.fishbase.org/summary/Squatina-guggenheim.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Squatina occulta",
@@ -820,7 +895,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Squatiniformes",
         "Familia": "Squatinidae",
-        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Sqocc_u0.jpg"
+        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Sqocc_u0.jpg",
+        "source": "http://www.fishbase.org/summary/53931"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Sympterygia bonapartii",
@@ -830,7 +906,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Rajidae",
-        "url": "http://www.boldsystems.org/pics/_w300/FARG/INIDEP-T_0214%2B1137284736.JPG"
+        "url": "http://www.inidep.edu.ar/wp-content/uploads/RAYA-MARMORADA2.jpg",
+        "source": "http://www.inidep.edu.ar/ayuda/raya-marmorada-sympterygia-bonapartii/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Trichomycterus tropeiro",
@@ -840,7 +917,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Siluriformes",
         "Familia": "TRICHOMYCTERIDAE",
-        "url": "http://www.scielo.br/img/revistas/ni/v11n2//1679-6225-ni-11-02-0217-gf08.jpg"
+        "url": "http://www.scielo.br/img/revistas/ni/v11n2//1679-6225-ni-11-02-0217-gf01.jpg",
+        "source": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1679-62252013000200217"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Zapteryx brevirostris",
@@ -850,7 +928,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Rhinobatidae",
-        "url": "http://shark-references.com/images/species/600xNxZapteryx_brevirostris,28MUELLER,aHENLE,,1838,29.jpg.pagespeed.ic.Qnapx2oy9G.jpg"
+        "url": "http://shark-references.com/images/species/Zapteryx_brevirostris(MUELLER&HENLE,1838).jpg",
+        "source": "http://shark-references.com/species/view/Zapteryx-brevirostris"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Dermochelys coriacea",
@@ -860,7 +939,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Testudines",
         "Familia": "Dermochelyidae",
-        "url": "http://static.panoramio.com/photos/large/3905400.jpg"
+        "url": "http://www.tartarugasmarinhas.pt/sites/tartarugasmarinhas.pt/files/Leatherback%20sea%20turtle%20and%20fish.jpg",
+        "source": "http://tartarugasmarinhas.pt/content/dermochelys-coriacea"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Eretmochelys imbricata",
@@ -870,7 +950,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Testudines",
         "Familia": "Cheloniidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/8/86/Eretmochelys_imbricata_01.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/8/86/Eretmochelys_imbricata_01.jpg",
+        "source": "http://en.wikipedia.org/wiki/Hawksbill_sea_turtle"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Crossodactylus schmidti",
@@ -880,7 +961,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Hylodidae",
-        "url": "http://www.faunaparaguay.com/images/Crossodactylus%20schmidti%20tirol%20JP%208nov13.JPG"
+        "url": "http://www.faunaparaguay.com/images/Crossodactylus%20schmidti%20tirol%20JP%208nov13.JPG",
+        "source": "http://www.faunaparaguay.com/crossodactylusschmidti.html"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Eleutherodactylus binotatus",
@@ -890,7 +972,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Leptodactylidae",
-        "url": "http://santuario-ra-bugio.htmlplanet.com/images/eleutherodactylus_binotatus-90.jpg"
+        "url": "http://santuario-ra-bugio.htmlplanet.com/images/eleutherodactylus_binotatus-90.jpg",
+        "source": "http://santuario-ra-bugio.htmlplanet.com/photo3.html"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Hypsiboas curupi",
@@ -900,7 +983,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Hylidae",
-        "url": "http://www.faunaparaguay.com/Hypsiboas%20curupi%20alberto%201.jpg"
+        "url": "http://www.faunaparaguay.com/Hypsiboas%20curupi%20alberto%201.jpg",
+        "source": "http://www.faunaparaguay.com/hypsiboascurupi.html"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Melanophryniscus macrogranulosus",
@@ -910,7 +994,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Bufonidae",
-        "url": "http://cdn1.arkive.org/media/2E/2EF48041-2F06-4C1E-9F09-025DFE3A4287/Presentation.Large/Torres-red-belly-toad-dorsal-view.jpg"
+        "url": "http://cdn1.arkive.org/media/2E/2EF48041-2F06-4C1E-9F09-025DFE3A4287/Presentation.Large/Torres-red-belly-toad-dorsal-view.jpg",
+        "source": "http://www.arkive.org/torres-red-belly-toad/melanophryniscus-macrogranulosus/"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Melanophryniscus montevidensis",
@@ -920,7 +1005,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Bufonidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Melanophryniscus_montevidensis01a.jpg/220px-Melanophryniscus_montevidensis01a.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Melanophryniscus_montevidensis01a.jpg/220px-Melanophryniscus_montevidensis01a.jpg",
+        "source": "http://en.wikipedia.org/wiki/Melanophryniscus_montevidensis"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Melanophryniscus stelzneri dorsalis",
@@ -930,7 +1016,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Bufonidae",
-        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0611/1257.jpeg"
+        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0611/1257.jpeg",
+        "source": "http://calphotos.berkeley.edu/cgi/img_query?where-taxon=Melanophryniscus&rel-taxon=begins+with&where-lifeform=amphibian&max=100"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Phyllomedusa distincta",
@@ -940,7 +1027,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Hylidae",
-        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0702/0879.jpeg"
+        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0702/0879.jpeg",
+        "source": "http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0702+0879"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Phyllomedusa tetraploidea",
@@ -950,7 +1038,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Hylidae",
-        "url": "http://christiancamargo.com.br/fauna/Perereca-macaco%20(Phyllomedusa%20tetr…loidea)/album/slides/Perereca-macaco%20(Phyllomedusa%20tetraploidea)-8.jpg"
+        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0110/0681.jpeg",
+        "source": "http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0110+0681"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Sphaenorhynchus caramaschi",
@@ -960,7 +1049,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Hylidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sphaenorhynchus_planicola.jpg/250px-Sphaenorhynchus_planicola.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sphaenorhynchus_lacteus.jpg/240px-Sphaenorhynchus_lacteus.jpg",
+        "source": "http://pt.wikipedia.org/wiki/Sphaenorhynchus"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Sphaenorhynchus caramaschii",
@@ -970,7 +1060,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Hylidae",
-        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0212/0950.jpeg"
+        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0212/0950.jpeg",
+        "source": "http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0212+0950"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Thoropa saxatilis",
@@ -980,7 +1071,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Leptodactylidae",
-        "url": "http://www.kwet.de/img/album/santa_catarina/5_thoropa_saxatilis.jpg"
+        "url": "http://www.kwet.de/img/album/santa_catarina/5_thoropa_saxatilis.jpg",
+        "source": "http://www.snipview.com/q/Thoropa%20saxatilis"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Accipiter poliogaster",
@@ -990,7 +1082,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "http://www.birdsandbirds.com/gallery_pappagalli/arc_foto/Accipiter_poliogaster%203.jpg"
+        "url": "http://www.birdsandbirds.com/gallery_pappagalli/arc_foto/Accipiter_poliogaster%203.jpg",
+        "source": "http://www.birdsandbirds.com/en-scheda_razza.asp?id_razza=1589"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Agelasticus cyanopus",
@@ -1000,7 +1093,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Icteridae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Agelasticus_cyanopus__MG_9351-1.JPG"
+        "url": "http://ibc.lynxeds.com/files/pictures/Agelasticus_cyanopus__MG_9351-1.JPG",
+        "source": "http://ibc.lynxeds.com/photo/unicolored-blackbird-agelasticus-cyanopus/juvenile-branch"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Amazona vinacea",
@@ -1010,7 +1104,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Psittaciformes",
         "Familia": "Psittacidae",
-        "url": "http://cdn2.arkive.org/media/BD/BD010B44-9328-40B0-ADCE-51153D1CC231/Presentation.Large/Vinaceous-amazon-in-captivity.jpg"
+        "url": "http://cdn2.arkive.org/media/BD/BD010B44-9328-40B0-ADCE-51153D1CC231/Presentation.Large/Vinaceous-amazon-in-captivity.jpg",
+        "source": "http://www.arkive.org/vinaceous-amazon/amazona-vinacea/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Calidris canutus",
@@ -1020,7 +1115,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Charadriiformes",
         "Familia": "Scolopacidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3f/Calidris_canutus_(summer).jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3f/Calidris_canutus_(summer).jpg",
+        "source": "http://en.wikipedia.org/wiki/Red_knot"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Corythopis delalandi",
@@ -1030,7 +1126,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/f/fa/Corythopis_delalandi.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/f/fa/Corythopis_delalandi.jpg",
+        "source": "http://en.wikipedia.org/wiki/Corythopis"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Diomedea exulans",
@@ -1040,7 +1137,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Diomedeidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/b/b7/Diomedea_exulans_2_-_SE_Tasmania.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/b/b7/Diomedea_exulans_2_-_SE_Tasmania.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Diomedea_exulans_2_-_SE_Tasmania.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Diomedea sanfordi",
@@ -1050,7 +1148,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Diomedeidae",
-        "url": "http://www.biodiversityexplorer.org/birds/diomedeidae/images/3931northernroya2l_327w.jpg"
+        "url": "http://www.biodiversityexplorer.org/birds/diomedeidae/images/3931northernroya2l_327w.jpg",
+        "source": "http://www.biodiversityexplorer.org/birds/diomedeidae/diomedea_sanfordi.htm"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Drymophila rubricollis",
@@ -1060,7 +1159,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Thamnophilidae",
-        "url": "http://m9.i.pbase.com/g1/46/683346/2/116101819.oCfv309e.jpg"
+        "url": "http://m9.i.pbase.com/g1/46/683346/2/116101819.oCfv309e.jpg",
+        "source": "http://www.pbase.com/image/116101819"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Dryocopus galeatus",
@@ -1070,7 +1170,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Piciformes",
         "Familia": "Picidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/701_622_C.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/701_622_C.jpg",
+        "source": "http://ibc.lynxeds.com/photo/helmeted-woodpecker-dryocopus-galeatus/adult-female"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Eleoscytalopus indigoticus",
@@ -1080,7 +1181,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Rhinocryptidae",
-        "url": "http://www.worldwildlifeimages.com/birds/d/11460-7/Eleoscytalopus+indigotic…sted+Tapaculo__1245+_c_+Greg+and+Yvonne+Dean+_WorldWildlifeImages_com_.JPG"
+        "url": "http://www.worldwildlifeimages.com/birds/d/11460-7/Eleoscytalopus+indigotic…sted+Tapaculo__1245+_c_+Greg+and+Yvonne+Dean+_WorldWildlifeImages_com_.JPG",
+        "source": "http://www.snipview.com/q/White-breasted%20Tapaculo"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Formicarius colma",
@@ -1090,7 +1192,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Formicariidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Formicarius_colma_-Vale_do_Ribeira,_Registro,_Sao_Paulo,_Brazil-8_(1).jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Formicarius_colma_-Vale_do_Ribeira,_Registro,_Sao_Paulo,_Brazil-8_(1).jpg",
+        "source": "http://en.wikipedia.org/wiki/Rufous-capped_antthrush"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Hemitriccus diops",
@@ -1100,7 +1203,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Rhynchocyclidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Drab-_breasted_Bamboo-Tyrant_Hemitriccus_diops.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/Drab-_breasted_Bamboo-Tyrant_Hemitriccus_diops.jpg",
+        "source": "http://ibc.lynxeds.com/photo/drab-breasted-pygmy-tyrant-hemitriccus-diops/bird-branch"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Hydropsalis anomala",
@@ -1110,7 +1214,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Caprimulgiformes",
         "Familia": "Caprimulgidae",
-        "url": "https://c2.staticflickr.com/4/3847/14372575833_fc1f5e9699.jpg"
+        "url": "https://c2.staticflickr.com/4/3847/14372575833_fc1f5e9699.jpg",
+        "source": "https://www.flickr.com/photos/jonatasphoto/14372575833/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Myrmeciza squamosa",
@@ -1120,7 +1225,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Thamnophilidae",
-        "url": "http://farm4.static.flickr.com/3047/2735596651_033e141b36.jpg"
+        "url": "http://farm4.static.flickr.com/3047/2735596651_033e141b36.jpg",
+        "source": "http://www.flickriver.com/photos/27651543@N08/2735596651/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Phoebetria fusca",
@@ -1130,7 +1236,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Diomedeidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/IMG_7358.JPG"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/2/29/Phoebetria_fusca_immature_-_SE_Tasmania.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Phoebetria_fusca_immature_-_SE_Tasmania.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Polystictus pectoralis",
@@ -1140,7 +1247,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://www.ramonmollerjensen.com/data/media/87/732-Tachur-Canela-Polystictus-pectoralis-Bearded-Tachuri.jpg"
+        "url": "http://www.ramonmollerjensen.com/data/media/87/732-Tachur-Canela-Polystictus-pectoralis-Bearded-Tachuri.jpg",
+        "source": "http://www.ramonmollerjensen.com/details.php?image_id=394"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Porzana spiloptera",
@@ -1150,7 +1258,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Gruiformes",
         "Familia": "Rallidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Dot-winged-Crake.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/Dot-winged-Crake.jpg",
+        "source": "http://ibc.lynxeds.com/photo/dot-winged-crake-porzana-spiloptera/one-two-birds-coming-out-thick-vegetation-edge-road"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Pterodroma incerta",
@@ -1160,7 +1269,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Procellariidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Pterodroma_incerta_2.JPG"
+        "url": "http://ibc.lynxeds.com/files/pictures/Pterodroma_incerta_2.JPG",
+        "source": "http://ibc.lynxeds.com/photo/atlantic-petrel-pterodroma-incerta/bird-following-ship-south-georgia-coast-0"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Pulsatrix perspicillata",
@@ -1170,7 +1280,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Strigiformes",
         "Familia": "Strigidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Pulsatrix_perspicillata_-Woodland_Park_Zoo-8a_(1).jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Pulsatrix_perspicillata_-Woodland_Park_Zoo-8a_(1).jpg",
+        "source": "http://pl.wikipedia.org/wiki/Pulsatrix"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Scytalopus iraiensis",
@@ -1180,7 +1291,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Rhinocryptidae",
-        "url": "http://neotropical.birds.cornell.edu/portal/image/image_gallery?uuid=533bc39b-9b20-4966-bea4-d44422977549&groupId=11003"
+        "url": "http://neotropical.birds.cornell.edu/portal/image/image_gallery?uuid=533bc39b-9b20-4966-bea4-d44422977549&groupId=11003",
+        "source": "http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=413641"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Selenidera maculirostris",
@@ -1190,7 +1302,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Piciformes",
         "Familia": "Ramphastidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/7/7c/Selenidera_maculirostris_-_male.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/7/7c/Selenidera_maculirostris_-_male.jpg",
+        "source": "http://pt.wikipedia.org/wiki/Selenidera_maculirostris"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Spizaetus melanoleucus",
@@ -1200,7 +1313,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "http://gallery.globalraptors.org/main.php?g2_view=core.DownloadItem&g2_itemId=1280&g2_serialNumber=4"
+        "url": "http://gallery.globalraptors.org/main.php?g2_view=core.DownloadItem&g2_itemId=1280&g2_serialNumber=4",
+        "source": "http://gallery.globalraptors.org/main.php/v/Spizaetus_melanoleucus/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Spizaetus tyrannus",
@@ -1210,7 +1324,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "http://ibc.lynxeds.com/files/pictures/IMG_9029.JPG"
+        "url": "http://ibc.lynxeds.com/files/pictures/IMG_9029.JPG",
+        "source": "http://ibc.lynxeds.com/photo/black-hawk-eagle-spizaetus-tyrannus/male-spizaetus-tyrannus"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sporophila angolensis",
@@ -1220,7 +1335,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://www.icesi.edu.co/wiki_aves_colombia/show_image.php?id=2846"
+        "url": "http://www.icesi.edu.co/wiki_aves_colombia/show_image.php?id=2846",
+        "source": "http://www.icesi.edu.co/wiki_aves_colombia/tiki-index.php?page=Curi%C3%B3+Ventricasta%C3%B1o+-+Sporophila+angolensis"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sporophila melanogaster",
@@ -1230,7 +1346,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Sporophila_melanogaster_DF-JBB1.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/Sporophila_melanogaster_DF-JBB1.jpg",
+        "source": "http://ibc.lynxeds.com/photo/black-bellied-seedeater-sporophila-melanogaster/individual-adult-male-mutation"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sporophila plumbea",
@@ -1240,7 +1357,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://antpitta.com/images/photos/finches/Plumbeous-Seedeater-male_6407.jpg"
+        "url": "http://antpitta.com/images/photos/finches/Plumbeous-Seedeater-male_6407.jpg",
+        "source": "http://antpitta.com/images/photos/finches/gallery_finches2.htm"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Stymphalornis acutirostris",
@@ -1250,7 +1368,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Thamnophilidae",
-        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0111/1433.jpeg"
+        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0111/1433.jpeg",
+        "source": "http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0111+1433"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Tangara peruviana",
@@ -1260,7 +1379,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Saira-sapucaia_24.JPG"
+        "url": "http://ibc.lynxeds.com/files/pictures/Saira-sapucaia_24.JPG",
+        "source": "http://ibc.lynxeds.com/photo/black-backed-tanager-tangara-peruviana/sa%C3%ADra-sapucaia-0"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Thalassarche chlororhynchos",
@@ -1270,7 +1390,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Diomedeidae",
-        "url": "http://www.biodiversityexplorer.org/birds/diomedeidae/images/3939atlanticyellow_658w.jpg"
+        "url": "http://www.biodiversityexplorer.org/birds/diomedeidae/images/3939atlanticyellow_658w.jpg",
+        "source": "http://www.biodiversityexplorer.org/birds/diomedeidae/thalassarche_chlororhynchos.htm"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Thalassarche melanophris",
@@ -1280,7 +1401,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Diomedeidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/2/29/Thalassarche_melanophris_-_In_the_colony.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/2/29/Thalassarche_melanophris_-_In_the_colony.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Thalassarche_melanophris_-_In_the_colony.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Thalasseus maximus",
@@ -1290,7 +1412,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Charadriiformes",
         "Familia": "Sternidae",
-        "url": "http://ibc.lynxeds.com/files/imagecache/photo_940/pictures/Thalasseus_maxima0001.Tulum.Meksyk.6.12.2007.JPG"
+        "url": "http://ibc.lynxeds.com/files/imagecache/photo_940/pictures/Thalasseus_maxima0001.Tulum.Meksyk.6.12.2007.JPG",
+        "source": "http://ibc.lynxeds.com/photo/royal-tern-thalasseus-maximus/two-birds-seashore"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Veniliornis mixtus",
@@ -1300,7 +1423,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Piciformes",
         "Familia": "Picidae",
-        "url": "https://leesbirdblog.files.wordpress.com/2010/04/checkered-woodpecker-veniliornis-mixtus-by-daves-birdingpix.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/Veniliornis_mixtus.jpg",
+        "source": "http://ibc.lynxeds.com/photo/chequered-woodpecker-picoides-mixtus/perched-branch"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla camargoi",
@@ -1310,7 +1434,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/camargoi1.300a.jpg"
+        "url": "http://tolweb.org/tree/ToLimages/camargoi1.100a.jpg",
+        "source": "http://tolweb.org/images/Aegla_camargoi/76265"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla inermis",
@@ -1320,7 +1445,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/inermis1.300a.jpg"
+        "url": "http://tolweb.org/tree/ToLimages/_inermis1.200a.jpg",
+        "source": "http://tolweb.org/Aegla_inermis/76268"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla leptodactyla",
@@ -1330,7 +1456,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/abtao.250a.jpg"
+        "url": "http://tolweb.org/tree/ToLimages/leptodactyla1.100a.jpg",
+        "source": "http://tolweb.org/images/Aegla_leptodactyla/76251"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla ligulata",
@@ -1340,7 +1467,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tolarchive/76270/20070110/tree/ToLimages/ligulata1.300a.jpg"
+        "url": "http://tolweb.org/tolarchive/76270/20070110/tree/ToLimages/ligulata1.300a.jpg",
+        "source": "http://tolweb.org/tolarchive/76270/20070110/Aegla_ligulata.html"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla manuinflata",
@@ -1350,7 +1478,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://i2.rgstatic.net/i/profile/9fcfd510ab8f558c24_l_2fa7d.jpg"
+        "url": "http://i2.rgstatic.net/i/profile/9fcfd510ab8f558c24_l_2fa7d.jpg",
+        "source": "http://www.researchgate.net/publication/234877907_Morphological_sexual_maturity_sexual_dimorphism_and_heterochely_in_aegla_manuinflata_(Anomura)"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla obstipa",
@@ -1360,7 +1489,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/obstipa1.300a.jpg"
+        "url": "http://tolweb.org/tree/ToLimages/obstipa1.100a.jpg",
+        "source": "http://tolweb.org/images/Aegla_obstipa/76252"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla plana",
@@ -1370,7 +1500,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/plana1.300a.jpg"
+        "url": "http://booksandjournals.brillonline.com/upload/02780372.jpg",
+        "source": "http://dx.doi.org/10.1163/193724012X630660"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla violacea",
@@ -1380,7 +1511,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/violacea1.300a.jpg"
+        "url": "http://tolweb.org/tree/ToLimages/violacea1.300a.jpg",
+        "source": "http://tolweb.org/Aegla_violacea/76273"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Anthinus henseli",
@@ -1390,7 +1522,8 @@ controller('speciesController', function($scope) {
         "Classe": "Gastropoda",
         "Ordem": "Stylommatophora",
         "Familia": "Strophocheilidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anthinus_henselii_shell.jpg/220px-Anthinus_henselii_shell.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anthinus_henselii_shell.jpg/220px-Anthinus_henselii_shell.jpg",
+        "source": "http://en.wikipedia.org/wiki/Anthinus_henselii"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Badecla clarissa",
@@ -1400,7 +1533,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Lycaenidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/lamprospilus0066.jpg"
+        "url": "http://www.butterfliesofamerica.com/Lamas/lamprospilus0066.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/badecla_clarissa_types.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Brevianta celelata",
@@ -1410,7 +1544,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Lycaenidae",
-        "url": "http://www.scielo.org.co/img/revistas/bccm/v14n1/v14n1a11f4.JPG"
+        "url": "http://www.butterfliesofamerica.com/L/s/brevianta0012.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/brevianta_celelata.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Contrafacia muattina",
@@ -1420,7 +1555,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Lycaenidae",
-        "url": "http://www.butterfliesofamerica.com/o02/USNM20120513_DSC4955.jpg"
+        "url": "http://www.butterfliesofamerica.com/o02/USNM20120513_DSC4955.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/contrafacia_muattina_types.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Cyanophrys bertha",
@@ -1430,7 +1566,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Lycaenidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/cyanophrys0016.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CramerAndStoll-uit…3-_pl_259.jpg/220px-CramerAndStoll-uitlandsche_kapellen_vol._3-_pl_259.jpg",
+        "source": "http://en.wikipedia.org/wiki/Cyanophrys"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Dynastor napoleon",
@@ -1440,7 +1577,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Nymphalidae",
-        "url": "http://www.theinsectcollector.com/acatalog/Dynastor_napoleon_M.jpg"
+        "url": "http://www.theinsectcollector.com/acatalog/Dynastor_napoleon_M.jpg",
+        "source": "http://www.theinsectcollector.com/acatalog/info_C122.html"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Heraclides androgeus laodocus",
@@ -1450,7 +1588,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Papilionidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/heraclides0032.jpg"
+        "url": "http://www.butterfliesofamerica.com/Lamas/heraclides0032.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/heraclides_androgeus_laodocus.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Megalobulimus proclivis",
@@ -1460,7 +1599,8 @@ controller('speciesController', function($scope) {
         "Classe": "Gastropoda",
         "Ordem": "Stylommatophora",
         "Familia": "Megalobulimidae",
-        "url": "http://www.biodiversitas.org.br/boletim/EAO/2008/FEVEREIRO/img/Megalobulimus_proclivis.jpg"
+        "url": "http://www.biodiversitas.org.br/boletim/EAO/2008/FEVEREIRO/img/Megalobulimus_proclivis.jpg",
+        "source": "http://www.biodiversitas.org.br/boletim/eao/2008/fevereiro/index.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Melipona bicolor schenki",
@@ -1470,7 +1610,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Hymenoptera",
         "Familia": "Apidae",
-        "url": "http://1.bp.blogspot.com/-yrwyobCm634/UYOPahdP_ZI/AAAAAAAACfs/akQYfANZqzM/s1600/melipona_bicolor.png"
+        "url": "https://c1.staticflickr.com/9/8426/7713548172_eee95210e3.jpg",
+        "source": "https://www.flickr.com/photos/47489494@N03/"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Melipona quadrifasciata quadrifasciata",
@@ -1480,7 +1621,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Hymenoptera",
         "Familia": "Apidae",
-        "url": "http://www.socialinsect-research.com/resources/MeliponaQuadrifasciata2.JPG"
+        "url": "http://www.socialinsect-research.com/resources/MeliponaQuadrifasciata2.JPG",
+        "source": "http://www.socialinsect-research.com/stingless-bees.php"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Monoeca xanthopyga",
@@ -1490,7 +1632,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Hymenoptera",
         "Familia": "Apidae",
-        "url": "http://www.scielo.br/img/revistas/rbzool/v20n1/n1a13f1b.jpg"
+        "url": "http://www.scielo.br/img/revistas/rbzool/v20n1/n1a13f1b.jpg",
+        "source": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-81752003000100013"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Olivancillaria contortuplicata",
@@ -1500,7 +1643,8 @@ controller('speciesController', function($scope) {
         "Classe": "Gastropoda",
         "Ordem": "Neogastropoda",
         "Familia": "Olividae",
-        "url": "http://www.gastropods.com/Shell_Images/N-O/Olivancillaria_contortuplicata.jpg"
+        "url": "http://www.gastropods.com/Shell_Images/N-O/Olivancillaria_contortuplicata.jpg",
+        "source": "http://www.gastropods.com/4/Shell_3414.shtml"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Olivella formicacorsii",
@@ -1510,7 +1654,8 @@ controller('speciesController', function($scope) {
         "Classe": "Gastropoda",
         "Ordem": "Neogastropoda",
         "Familia": "Olividae",
-        "url": "http://www.nmr-pics.nl/Olivellidae/album/slides/Olivella%20formicacorsii.jpg"
+        "url": "http://www.gastropods.com/Shell_Images/ThumbNails/N-O/TN_Olivella_formicacorsii_1.jpg",
+        "source": "http://www.gastropods.com/Taxon_pages/TN_Family_OLIVELLIDAE.shtml"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Pampasatyrus gyrtone",
@@ -1520,7 +1665,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Nymphalidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/pampasatyrus0007.jpg"
+        "url": "http://www.butterfliesofamerica.com/Lamas/pampasatyrus0007.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/pampasatyrus_gyrtone_types.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Pseudolucia parana",
@@ -1530,7 +1676,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Lycaenidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/pseudolucia0069.jpg"
+        "url": "http://www.butterfliesofamerica.com/Lamas/pseudolucia0071.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/pseudolucia_parana_types.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Pseudotinea hemis",
@@ -1540,7 +1687,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Riodinidae",
-        "url": "http://www.butterfliesofamerica.com/L/images/pseudotinea0005.jpg"
+        "url": "http://www.butterfliesofamerica.com/L/images/pseudotinea0005.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/pseudotinea_hemis_types.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Stichelia dukinfieldia",
@@ -1550,7 +1698,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Riodinidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/stichelia0007.jpg"
+        "url": "http://www.butterfliesofamerica.com/Lamas/stichelia0007.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/stichelia_dukinfieldia_types.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Theritas (Denivia) curitibaensis",
@@ -1560,7 +1709,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Lycaenidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Theritas_paupera_Novara.png/220px-Theritas_paupera_Novara.png"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Theritas_paupera_Novara.png/220px-Theritas_paupera_Novara.png",
+        "source": "http://en.wikipedia.org/wiki/Theritas"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Alouatta caraya",
@@ -1570,7 +1720,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Primates",
         "Familia": "Atelidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Alouatta-caraya_ppia-f01.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Alouatta-caraya_ppia-f01.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Alouatta-caraya_ppia-f01.jpg"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Balaenoptera borealis",
@@ -1580,7 +1731,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Cetacea",
         "Familia": "Balaenopteridae",
-        "url": "http://www.animalbase.uni-goettingen.de/animalbaseimage/Balaenoptera-borealis_01.JPG"
+        "url": "http://www.animalbase.uni-goettingen.de/animalbaseimage/Balaenoptera-borealis_01.JPG",
+        "source": "http://www.animalbase.uni-goettingen.de/zooweb/servlet/AnimalBase/home/speciestaxon?id=7290"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Balaenoptera physalus",
@@ -1590,7 +1742,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Cetacea",
         "Familia": "Balaenopteridae",
-        "url": "http://marinebio.org/upload/Balaenoptera-physalus/6.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/7/77/Rorcual_com%C3%BAn_(Balaenoptera_physalus).jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Rorcual_com%C3%BAn_(Balaenoptera_physalus).jpg"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Ctenomys flamarioni",
@@ -1600,7 +1753,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Rodentia",
         "Familia": "Ctenomyidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Ctenomys_flamarioni_cropped.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Ctenomys_flamarioni_cropped.jpg",
+        "source": "http://pl.wikipedia.org/wiki/Ctenomys_flamarioni"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Ctenomys lami",
@@ -1610,7 +1764,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Rodentia",
         "Familia": "Ctenomyidae",
-        "url": "http://cdn1.arkive.org/media/18/1890C887-9843-49CC-85C6-B0AABBE358D1/Presentation.Large/Lami-tuco-tuco.jpg"
+        "url": "http://cdn1.arkive.org/media/18/1890C887-9843-49CC-85C6-B0AABBE358D1/Presentation.Large/Lami-tuco-tuco.jpg",
+        "source": "http://www.arkive.org/lami-tuco-tuco/ctenomys-lami/"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Leopardus colocolo",
@@ -1620,7 +1775,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Felidae",
-        "url": "http://cdn2.arkive.org/media/90/90A57EA3-DD92-40A0-A7CE-239F00055FAA/Presentation.Large/Adult-pampas-cat.jpg"
+        "url": "http://cdn2.arkive.org/media/90/90A57EA3-DD92-40A0-A7CE-239F00055FAA/Presentation.Large/Adult-pampas-cat.jpg",
+        "source": "http://www.arkive.org/pampas-cat/leopardus-colocolo/"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Mazama americana",
@@ -1630,7 +1786,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Artiodactyla",
         "Familia": "Cervidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/8/80/Mazama_americana_by_anagoria_.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/8/80/Mazama_americana_by_anagoria_.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Mazama_americana_by_anagoria_.jpg"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Mazama nana",
@@ -1640,7 +1797,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Artiodactyla",
         "Familia": "Cervidae",
-        "url": "http://www.faunaparaguay.com/Mazama%20nana%20agatha%20boveda%20itaipu%20zoo.jpg"
+        "url": "http://www.faunaparaguay.com/Mazama%20nana%20agatha%20boveda%20itaipu%20zoo.jpg",
+        "source": "http://www.faunaparaguay.com/mazamanana.html"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Pecari tajacu",
@@ -1650,7 +1808,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Artiodactyla",
         "Familia": "Tayassuidae",
-        "url": "http://gallery.new-ecopsychology.org/photo/mammals/collared_peccary_(pecari_tajacu)2.jpg"
+        "url": "http://www.arizonensis.org/images/vertibrata/pecari_tajacu.jpg",
+        "source": "http://www.arizonensis.org/sonoran/fieldguide/vertibrata/pecari.html"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Puma concolor",
@@ -1660,7 +1819,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Felidae",
-        "url": "http://www.catbg.net/divi/pictures/Vidove/Puma%20concolor/puma_concolor_cub.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/c/c1/Puma_concolor_stanleyana_-_Texas_Park_-_Lanzarote_-PC06.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Puma_concolor_stanleyana_-_Texas_Park_-_Lanzarote_-PC06.jpg"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Sylvilagus brasiliensis",
@@ -1670,7 +1830,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Lagomorpha",
         "Familia": "Leporidae",
-        "url": "http://www.ecoregistros.org/site/images/albumes/1/4981/IMG_3287-EDIT.jpg"
+        "url": "http://www.floridanature.org/photos/Sylvilagus_floridanus_1b,_Tallahassee,_200105.jpg",
+        "source": "http://www.uniprot.org/taxonomy/9988"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Wilfredomys oenax",
@@ -1680,7 +1841,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Rodentia",
         "Familia": "Cricetidae",
-        "url": "http://atwabrasil.com/wp-content/uploads/2011/12/Wilfredomys_oenax.jpg"
+        "url": "http://atwabrasil.com/wp-content/uploads/2011/12/Wilfredomys_oenax.jpg",
+        "source": "http://atwabrasil.com/2011/12/06/as-10-especies-mais-ameacadas-de-extincao-no-brasil/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Atlantirivulus riograndensis",
@@ -1690,7 +1852,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://3.bp.blogspot.com/-kIo2dBp6Y_U/U_F7xZ3xGmI/AAAAAAAAAQI/KNlBAY-oFsQ/s1600/Atl_rio.tif"
+        "url": "http://i1.rgstatic.net/i/profile/3deec54d0c03a1663a_l_be25a.jpg",
+        "source": "http://www.researchgate.net/publication/271825318_Abundance_Sex-Ratio_Lengt…ivulidae)_in_Lagoa_Do_Peixe_National_Park_a_Ramsar_Site_of_Southern_Brazil"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Atlantoraja castelnaui",
@@ -1700,7 +1863,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Rajidae",
-        "url": "http://cdn1.arkive.org/media/6B/6B5CB53F-C035-4286-9C99-29BD79AB5C4E/Presentation.Large/Juvenile-female-spotback-skate.jpg"
+        "url": "http://cdn1.arkive.org/media/6B/6B5CB53F-C035-4286-9C99-29BD79AB5C4E/Presentation.Large/Juvenile-female-spotback-skate.jpg",
+        "source": "http://www.arkive.org/spotback-skate/atlantoraja-castelnaui/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias charrua",
@@ -1710,7 +1874,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.zipcodezoo.com/hp350/Austrolebias_charrua_0.jpg"
+        "url": "http://www.zipcodezoo.com/hp350/Austrolebias_charrua_0.jpg",
+        "source": "http://swordtail.tamu.edu/en/research_austrolebias.php"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias minuano",
@@ -1720,7 +1885,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.biolaw.com.br/wp-content/uploads/2012/03/Austrolebias-minuano-1024x682.jpg"
+        "url": "http://www.fishbase.org/images/species/Aumin_u0.jpg",
+        "source": "http://www.fishbase.org/identification/SpeciesList.php?genus=Austrolebias"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias nigrofasciatus",
@@ -1730,7 +1896,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://images.killi.net/n/NGF/ngfx.jpg"
+        "url": "http://3.bp.blogspot.com/-cIYJRYIQGcY/Uafm-ZrjbPI/AAAAAAAAA_Y/UzpiJNovpOE/s1600/Austrolebias_nigrofasciatus_M_01.jpg",
+        "source": "http://aquarismoreal.blogspot.com/2013/06/austrolebias-nigrofasciatus.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Austrolebias periodicus",
@@ -1740,7 +1907,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.petshop-zoomania.com/Tetras,Rainbows,Killi/KAB%202010%20Internat…rtrait/Guillaume%20Dethu%20-%20Austrolebias%20periodicus%20Las%20Cavas.jpg"
+        "url": "http://www.petshop-zoomania.com/Tetras,Rainbows,Killi/KAB%202010%20Internat…rtrait/Guillaume%20Dethu%20-%20Austrolebias%20periodicus%20Las%20Cavas.jpg",
+        "source": "http://www.petshop-zoomania.com/Tetras,Rainbows,Killi/KAB%202010%20International%20Killi%20Photo%20Competition/Portrait/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Bryconamericus lambari",
@@ -1750,7 +1918,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Characiformes",
         "Familia": "Characidae",
-        "url": "http://www.fishbase.se/images/thumbnails/jpg/tn_Brlam_u0.jpg"
+        "url": "http://www.fishbase.se/images/thumbnails/jpg/tn_Brlam_u0.jpg",
+        "source": "http://www.fishbase.se/summary/Bryconamericus-lambari.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Dasyatis centroura",
@@ -1760,7 +1929,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Dasyatidae",
-        "url": "http://www.oceanwideimages.com/images/12585/large/roughtail-stingray-43M2755-32.jpg"
+        "url": "http://www.oceanwideimages.com/images/12585/large/roughtail-stingray-43M2755-32.jpg",
+        "source": "http://carnivoraforum.com/topic/9994733/1/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Diapoma pyrrhopteryx",
@@ -1770,7 +1940,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Characiformes",
         "Familia": "Characidae",
-        "url": "http://www.scielo.br/img/revistas/paz/v51n5/01f34.jpg"
+        "url": "http://www.scielo.br/img/revistas/paz/v51n5/01f34.jpg",
+        "source": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0031-10492011000500001"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Epinephelus marginatus",
@@ -1780,7 +1951,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "PERCIFORMES",
         "Familia": "Serranidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/e/ee/Epinephelus_marginatus_(Lowe,_1834)_1.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/e/ee/Epinephelus_marginatus_(Lowe,_1834)_1.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Epinephelus_marginatus_(Lowe,_1834)_1.jpg"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Genidens barbus",
@@ -1790,7 +1962,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Siluriformes",
         "Familia": "Ariidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/f/f7/Genidens_barbus.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/f/f7/Genidens_barbus.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Genidens_barbus.jpg"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Gymnotus pantherinus",
@@ -1800,7 +1973,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "GYMNOTIFORMES",
         "Familia": "GYMNOTIDAE",
-        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Gypan_u0.jpg"
+        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Gypan_u0.jpg",
+        "source": "http://www.fishbase.org/summary/48130"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Gymnura altavela",
@@ -1810,7 +1984,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Gymnuridae",
-        "url": "https://www.flmnh.ufl.edu/fish/Gallery/Descript/SpinybflyRay/sbflyray.jpg"
+        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Gyalt_u0.jpg",
+        "source": "http://www.fishbase.org/summary/2577"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Hollandichthys multifasciatus",
@@ -1820,7 +1995,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Characiformes",
         "Familia": "Characidae",
-        "url": "http://editoramarcelonotare.com/images/Hollandichthys_cf_multifasciatus.jpg?200"
+        "url": "http://www.aquaristclub.org/aquaristblog/wp-content/uploads/2014/02/Hollandichthys-multifasciatus.jpg",
+        "source": "http://www.aquaristclub.org/aquaristblog/?paged=32"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Mustelus canis",
@@ -1830,7 +2006,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Triakidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/0/06/Mustelus_canis_noaa.jpg"
+        "url": "http://www.elasmodiver.com/Sharkive%20images/duskysmoothhound004.jpg",
+        "source": "http://www.elasmodiver.com/dusky_smoothhound.htm"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Odontesthes bicudo",
@@ -1840,7 +2017,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "ATHERINIFORMES",
         "Familia": "ATHERINOPSIDAE",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Odontesthes_argentinensis_Mar_del_Plata_2.JPG"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Odontesthes_argentinensis_Mar_del_Plata_2.JPG",
+        "source": "http://en.wikipedia.org/wiki/Odontesthes"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Pogonias cromis",
@@ -1850,7 +2028,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "PERCIFORMES",
         "Familia": "SCIAENIDAE",
-        "url": "http://www.sms.si.edu/irlspec/images/Pogoni_cromis1.gif"
+        "url": "http://www.sms.si.edu/irlspec/images/Pogoni_cromis1.gif",
+        "source": "http://www.sms.si.edu/irlspec/Pogoni_cromis.htm"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Pseudoplatystoma corruscans",
@@ -1860,7 +2039,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Siluriformes",
         "Familia": "Pimelodidae",
-        "url": "http://www.scotcat.com/images/pseudoplatystoma_corruscans3.jpg"
+        "url": "http://www.scotcat.com/images/pseudoplatystoma_corruscans3.jpg",
+        "source": "http://www.scotcat.com/pimelodidae/pseudoplatystoma_corruscans5.htm"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Rioraja agassizii",
@@ -1870,7 +2050,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Rajidae",
-        "url": "http://cdn1.arkive.org/media/46/4620D015-FAB1-4991-809A-76AC80B2BC01/Presentation.Large/Adult-female-Rio-skate-specimen.jpg"
+        "url": "http://cdn1.arkive.org/media/46/4620D015-FAB1-4991-809A-76AC80B2BC01/Presentation.Large/Adult-female-Rio-skate-specimen.jpg",
+        "source": "http://www.arkive.org/rio-skate/rioraja-agassizii/"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Salminus brasiliensis",
@@ -1880,7 +2061,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Characiformes",
         "Familia": "Characidae",
-        "url": "http://www.aquahobby.com/gallery/characins/img/Salminus_brasiliensis_1.jpg"
+        "url": "http://www.aquahobby.com/gallery/characins/img/Salminus_brasiliensis_1.jpg",
+        "source": "http://www.aquahobby.com/gallery/characins/e_Salminus_brasiliensis.php"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Steindachneridium scriptum",
@@ -1890,7 +2072,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Siluriformes",
         "Familia": "Pimelodidae",
-        "url": "https://0.academia-photos.com/10090708/3530043/4144426/s200_maria_cristina.da_silva_cortinhas.jpg"
+        "url": "https://0.academia-photos.com/10090708/3530043/4144426/s200_maria_cristina.da_silva_cortinhas.jpg",
+        "source": "http://www.academia.edu/7139065/Two_genetic_stocks_of_Steindachneridium_mel…mpatry_in_nature_and_genetic_variability_of_wild_parents_and_F1_generation"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Sympterygia acuta",
@@ -1900,7 +2083,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Rajiformes",
         "Familia": "Rajidae",
-        "url": "http://www.fishbase.se/images/species/Syacu_f0.jpg"
+        "url": "http://www.fishbase.se/images/species/Syacu_f0.jpg",
+        "source": "http://www.fishbase.se/Photos/PicturesSummary.php?StartRow=15&personnel=709&what=collab_pic&TotRec=20&SortBy=genus"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Apostolepis quirogai",
@@ -1910,7 +2094,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Squamata",
         "Familia": "Dipsadidae",
-        "url": "http://www.scielo.br/img/revistas/paz/v45n16/a01fig03.jpg"
+        "url": "http://www.scielo.br/img/revistas/paz/v45n16/a01fig03.jpg",
+        "source": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0031-10492005001600001"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Caretta caretta",
@@ -1920,7 +2105,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Testudines",
         "Familia": "Cheloniidae",
-        "url": "http://www.unitedcreativity.org/wp-content/uploads/2013/04/Martin_caretta_2000x1339.jpg"
+        "url": "http://dearcyprus.com/wp-content/uploads/2014/10/Martin_caretta_2000x13391.jpg",
+        "source": "http://dearcyprus.com/caretta-caretta.html"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Contomastix vacariensis",
@@ -1930,7 +2116,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Squamata",
         "Familia": "Teiidae",
-        "url": "http://www.reptarium.cz/content/photo_rd_02/Cnemidophorus-vacariensis-03000030089_01.jpg"
+        "url": "http://www.reptarium.cz/content/photo_rd_02/Cnemidophorus-vacariensis-03000030089_01.jpg",
+        "source": "http://reptile-database.reptarium.cz/species?genus=Contomastix&species=vacariensis"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Lepidochelys olivacea",
@@ -1940,7 +2127,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Testudines",
         "Familia": "Cheloniidae",
-        "url": "http://www.tartarugasmarinhas.pt/sites/tartarugasmarinhas.pt/files/Olive%20Ridley%20(Lepidochelys%20olivacea)%20400L.jpg"
+        "url": "http://www.tartarugasmarinhas.pt/sites/tartarugasmarinhas.pt/files/Olive%20Ridley%20(Lepidochelys%20olivacea)%20400L.jpg",
+        "source": "http://tartarugasmarinhas.com/content/lepidochelys-olivacea"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Liolaemus arambarensis",
@@ -1950,7 +2138,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Squamata",
         "Familia": "Liolaemidae",
-        "url": "http://www.reptarium.cz/content/photo_rd_05/Liolaemus-arambarensis-03000034256_01.jpg"
+        "url": "http://www.reptarium.cz/content/photo_rd_05/Liolaemus-arambarensis-03000034256_01.jpg",
+        "source": "http://reptile-database.reptarium.cz/species?genus=Liolaemus&species=arambarensis"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Itapotihyla langsdorfii",
@@ -1960,7 +2149,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Hylidae",
-        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0208/0552.jpeg"
+        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0208/0552.jpeg",
+        "source": "http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0208+0552"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Melanophryniscus cambaraensis",
@@ -1970,7 +2160,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Bufonidae",
-        "url": "http://cdn2.arkive.org/media/D2/D25BDD05-81C9-4A79-9D3E-88739A206677/Presentation.Large/Brazilian-red-belly-toad-male-dorsal-view.jpg"
+        "url": "http://cdn2.arkive.org/media/D2/D25BDD05-81C9-4A79-9D3E-88739A206677/Presentation.Large/Brazilian-red-belly-toad-male-dorsal-view.jpg",
+        "source": "http://www.arkive.org/brazilian-red-belly-toad/melanophryniscus-cambaraensis/"
     }, {
         "Grupo": "Anfíbios",
         "Nome científico": "Scinax rizibilis",
@@ -1980,7 +2171,8 @@ controller('speciesController', function($scope) {
         "Classe": "Amphibia",
         "Ordem": "Anura",
         "Familia": "Hylidae",
-        "url": "http://calphotos.berkeley.edu/imgs/512x768/1111_1111/1111/3409.jpeg"
+        "url": "http://calphotos.berkeley.edu/imgs/512x768/1111_1111/1111/3409.jpeg",
+        "source": "http://calphotos.berkeley.edu/cgi/img_query?enlarge=1111+1111+1111+3409"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Amazona pretrei",
@@ -1990,7 +2182,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Psittaciformes",
         "Familia": "Psittacidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Amazona_pretrei_-Rio_Grande_do_Sul_-Brazil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Amazona_pretrei_-Rio_Grande_do_Sul_-Brazil-8.jpg",
+        "source": "http://en.wikipedia.org/wiki/Red-spectacled_amazon"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Anabacerthia amaurotis",
@@ -2000,7 +2193,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "http://cdn2.arkive.org/media/94/945A5493-CC6D-4480-A042-FBD1722C1263/Presentation.Large/White-browed-foliage-gleaner-calling.jpg"
+        "url": "http://cdn2.arkive.org/media/94/945A5493-CC6D-4480-A042-FBD1722C1263/Presentation.Large/White-browed-foliage-gleaner-calling.jpg",
+        "source": "http://www.arkive.org/white-browed-foliage-gleaner/anabacerthia-amaurotis/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Anthus nattereri",
@@ -2010,7 +2204,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Motacillidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Ochre-breasted_Pipit1.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/Ochre-breasted_Pipit1.jpg",
+        "source": "http://ibc.lynxeds.com/photo/ochre-breasted-pipit-anthus-nattereri/bird-new-grass"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Aphantochroa cirrhochloris",
@@ -2020,7 +2215,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Apodiformes",
         "Familia": "Trochilidae",
-        "url": "http://cdn2.brooklynmuseum.org/images/opencollection/objects/size3/64.98.219_PS4.jpg"
+        "url": "http://cdn2.brooklynmuseum.org/images/opencollection/objects/size3/64.98.219_PS4.jpg",
+        "source": "http://www.brooklynmuseum.org/opencollection/objects/84378/Aphantochroa_Cirrhochloris%3A_Sombre_Humming_Bird"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Asthenes hudsoni",
@@ -2030,7 +2226,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/IMG_9429.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/IMG_9429.jpg",
+        "source": "http://ibc.lynxeds.com/photo/hudson039s-canastero-asthenes-hudsoni/difficult-pampas-stick-edge-rural-road"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Attila rufus",
@@ -2040,7 +2237,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/e/ee/Attila_rufus_-Reserva_Guainumbi,_Sao_Luis_do_Paraitinga,_Sao_Paulo,_Brasil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/e/ee/Attila_rufus_-Reserva_Guainumbi,_Sao_Luis_do_Paraitinga,_Sao_Paulo,_Brasil-8.jpg",
+        "source": "http://en.wikipedia.org/wiki/Grey-hooded_attila"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Baryphthengus ruficapillus",
@@ -2050,7 +2248,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Coraciiformes",
         "Familia": "Momotidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Juruva-verde_11.JPG"
+        "url": "http://ibc.lynxeds.com/files/pictures/Juruva-verde_11.JPG",
+        "source": "http://ibc.lynxeds.com/photo/rufous-capped-motmot-baryphthengus-ruficapillus/juruva-verde"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Capsiempis flaveola",
@@ -2060,7 +2259,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/7/7a/Capsiempis_flaveola_-Costa_Rica-8_(1).jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/7/7a/Capsiempis_flaveola_-Costa_Rica-8_(1).jpg",
+        "source": "http://en.wikipedia.org/wiki/Yellow_tyrannulet"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Cinclodes pabsti",
@@ -2070,7 +2270,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Cinclodes_pabsti_Esparaiado_05_02_2012_6.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/Cinclodes_pabsti_Esparaiado_05_02_2012_6.jpg",
+        "source": "http://ibc.lynxeds.com/photo/long-tailed-cinclodes-cinclodes-pabsti/walking"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Circus cinereus",
@@ -2080,7 +2281,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Circus_cinereus_-Rio_Grande_do_Sul,_Brazil_-flying-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Circus_cinereus_-Rio_Grande_do_Sul,_Brazil_-flying-8.jpg",
+        "source": "http://en.wikipedia.org/wiki/Cinereous_harrier"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Clibanornis dendrocolaptoides",
@@ -2090,7 +2292,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "https://farm4.staticflickr.com/3552/5846746402_d7f9d95176_m.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/IMG_0232.jpg",
+        "source": "http://ibc.lynxeds.com/photo/canebrake-groundcreeper-clibanornis-dendrocolaptoides/ave-vulner%C3%A1vel-extin%C3%A7%C3%A3o-devido-destrui%C3%A7%C3%A3"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Cnemotriccus fuscatus fuscatus",
@@ -2100,7 +2303,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://www.mae-da-lua.org/photos/cnemotriccus_fuscatus_00.jpg"
+        "url": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0211/0090.jpeg",
+        "source": "http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0211+0090"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Colonia colonus",
@@ -2110,7 +2314,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/e/ec/Colonia_colonus_-Parque_Nacional_do_Itatiaia,_Rio_de_Janeiro,_Brazil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/e/ec/Colonia_colonus_-Parque_Nacional_do_Itatiaia,_Rio_de_Janeiro,_Brazil-8.jpg",
+        "source": "http://en.wikipedia.org/wiki/Long-tailed_tyrant"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Contopus cinereus",
@@ -2120,7 +2325,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://m3.i.pbase.com/o2/93/611193/1/107213883.TZbn1SBV.20081130_0520_02.jpg"
+        "url": "http://m3.i.pbase.com/o2/93/611193/1/107213883.TZbn1SBV.20081130_0520_02.jpg",
+        "source": "http://www.pbase.com/image/107213883"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Culicivora caudacuta",
@@ -2130,7 +2336,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/7/71/Culicivora_caudacuta.png"
+        "url": "http://antpitta.com/images/photos/tyrants/Sharp-tailed-Tyrant-canastra.jpg",
+        "source": "http://antpitta.com/images/photos/tyrants/gallery_tyrants3.htm"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Diomedea epomophora",
@@ -2140,7 +2347,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Diomedeidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d2/Diomedea_epomophora_-_SE_Tasmania_crop.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d2/Diomedea_epomophora_-_SE_Tasmania_crop.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Diomedea_epomophora_-_SE_Tasmania_crop.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Dromococcyx pavoninus",
@@ -2150,7 +2358,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Cuculiformes",
         "Familia": "Cuculidae",
-        "url": "http://focusingonwildlife.com/news/wp-content/uploads/2012/08/Dromococcyx-pavoninus-Jagaru%C3%ADna-05-06-12-IMG_16648.jpg"
+        "url": "http://focusingonwildlife.com/news/wp-content/uploads/2012/08/Dromococcyx-pavoninus-Jagaru%C3%ADna-05-06-12-IMG_16648.jpg",
+        "source": "http://focusingonwildlife.com/news/passarinhando-no-brasil-august-2012-expl…piece-of-forest-nearby/dromococcyx-pavoninus-jagaruina-05-06-12-img_16648/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Gallinago undulata",
@@ -2160,7 +2369,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Charadriiformes",
         "Familia": "Scolopacidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/giantsnipe-epv0017.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/giantsnipe-epv0017.jpg",
+        "source": "http://ibc.lynxeds.com/photo/giant-snipe-gallinago-undulata/giant-snipe-gallinago-undulata-feeding-night-regua-brazil"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Mackenziaena severa",
@@ -2170,7 +2380,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Formicariidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/7/7f/Mackenziaena_severa_-Piraju,_Sao_Paulo,_Brazil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/7/7f/Mackenziaena_severa_-Piraju,_Sao_Paulo,_Brazil-8.jpg",
+        "source": "http://en.wikipedia.org/wiki/Mackenziaena"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Manacus manacus",
@@ -2180,7 +2391,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Pipridae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/c/c1/Manacus_manacus_male_1.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/c/c1/Manacus_manacus_male_1.jpg",
+        "source": "http://hu.wikipedia.org/wiki/Bar%C3%A1tpipra"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Myiarchus tyrannulus",
@@ -2190,7 +2402,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/c/ca/Myiarchus_tyrannulus_-Piraju,_Sao_Paulo,_Brazil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/c/ca/Myiarchus_tyrannulus_-Piraju,_Sao_Paulo,_Brazil-8.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Myiarchus_tyrannulus_-Piraju,_Sao_Paulo,_Brazil-8.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Myrmotherula unicolor",
@@ -2200,7 +2413,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Thamnophilidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/1/1c/Myrmotherula_unicolor_-Vale_do_Ribeira,_Registro,_Sao_Paulo,_Brazil_-male-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/1/1c/Myrmotherula_unicolor_-Vale_do_Ribeira,_Registro,_Sao_Paulo,_Brazil_-male-8.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Myrmotherula_unicolor_-Vale_do_Ribeira,_Registro,_Sao_Paulo,_Brazil_-male-8.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Parabuteo leucorrhous",
@@ -2210,7 +2424,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "http://www.avesderapinabrasil.com/images/especies/P_leucorrhous.JPG"
+        "url": "http://www.avesderapinabrasil.com/images/especies/P_leucorrhous.JPG",
+        "source": "http://www.avesderapinabrasil.com/percnohierax_leucorrhous.htm"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Patagioenas plumbea",
@@ -2220,7 +2435,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Columbiformes",
         "Familia": "Columbidae",
-        "url": "http://www.discoverlife.org/IM/I_LHT/0031/320/Patagioenas_plumbea,_Plumbeous_Pigeon,I_LHT3164.jpg"
+        "url": "http://www.discoverlife.org/IM/I_LHT/0031/320/Patagioenas_plumbea,_Plumbeous_Pigeon,I_LHT3164.jpg",
+        "source": "http://www.discoverlife.org/mp/20q?search=Patagioenas+plumbea"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Philydor atricapillus",
@@ -2230,7 +2446,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "http://i1.treknature.com/photos/15097/limpa-folha-coroado.jpg"
+        "url": "http://i1.treknature.com/photos/15097/limpa-folha-coroado.jpg",
+        "source": "http://www.treknature.com/gallery/South_America/Brazil/Southeast/Rio_de_Janeiro/Guapimirim/photo196127.htm"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Philydor lichtensteini",
@@ -2240,7 +2457,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "http://www.faunaparaguay.com/images/Philydor%20lichtensteini%20tirol%20aug05.jpg"
+        "url": "http://www.faunaparaguay.com/images/Philydor%20lichtensteini%20tirol%20aug05.jpg",
+        "source": "http://www.faunaparaguay.com/philydor_lichtensteini.html"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Phylloscartes eximius",
@@ -2250,7 +2468,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Rhynchocyclidae",
-        "url": "http://www.ecoregistros.org/site/images/albumes/19/6978/Phylloscartes-eximius.jpg"
+        "url": "http://www.ecoregistros.org/site/images/albumes/19/6978/Phylloscartes-eximius.jpg",
+        "source": "http://www.ecoregistros.org/site_en/imagen.php?id=6978"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Phylloscartes kronei",
@@ -2260,7 +2479,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Rhynchocyclidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/kronei_IBC_1.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/kronei_IBC_1.jpg",
+        "source": "http://ibc.lynxeds.com/photo/restinga-tyrannulet-phylloscartes-kronei/adult-bird"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Piprites chloris",
@@ -2270,7 +2490,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Pipridae",
-        "url": "http://ibc.lynxeds.com/files/imagecache/photo_940/pictures/Piprites_chloris_CA.jpg"
+        "url": "http://ibc.lynxeds.com/files/imagecache/photo_940/pictures/Piprites_chloris_CA.jpg",
+        "source": "http://ibc.lynxeds.com/photo/wing-barred-piprites-piprites-chloris/close-view"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Procellaria aequinoctialis",
@@ -2280,7 +2501,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Procellariidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/a/a3/Procellaria_aequinoctialis_1_-_SE_Tasmania.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/9/99/Procellaria_aequinoctialis_off_Kaikoura.jpg",
+        "source": "http://en.wikipedia.org/wiki/White-chinned_petrel"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Procellaria conspicillata",
@@ -2290,7 +2512,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Procellariiformes",
         "Familia": "Procellariidae",
-        "url": "http://cdn1.arkive.org/media/7A/7AC0D027-ADB1-4C6C-BC81-B558708A5DF0/Presentation.Large/Spectacled-petrel-in-flight-above-the-sea.jpg"
+        "url": "http://cdn1.arkive.org/media/7A/7AC0D027-ADB1-4C6C-BC81-B558708A5DF0/Presentation.Large/Spectacled-petrel-in-flight-above-the-sea.jpg",
+        "source": "http://www.arkive.org/spectacled-petrel/procellaria-conspicillata/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Procnias nudicollis",
@@ -2300,7 +2523,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Cotingidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/d/d6/Procnias_nudicollis.jpg"
+        "url": "http://farm7.static.flickr.com/6199/6150319138_64b482ae71.jpg",
+        "source": "http://www.flickriver.com/search/Procnias+nudicollis/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Pseudastur polionotus",
@@ -2310,7 +2534,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Falconiformes",
         "Familia": "Accipitridae",
-        "url": "http://www.avesderapinabrasil.com/images/especies/l_polionotus4.JPG"
+        "url": "http://www.avesderapinabrasil.com/images/especies/l_polionotus4.JPG",
+        "source": "http://www.avesderapinabrasil.com/leucopternis_polionotus.htm"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Pseudoseisura lophotes",
@@ -2320,7 +2545,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Furnariidae",
-        "url": "http://www.ramonmollerjensen.com/data/media/82/568-Cacholote-Castao-Pseudoseisura-lophotes-4-800-VGB-31-07-08.jpg"
+        "url": "http://www.ramonmollerjensen.com/data/media/82/568-Cacholote-Castao-Pseudoseisura-lophotes-4-800-VGB-31-07-08.jpg",
+        "source": "http://www.ramonmollerjensen.com/details.php?image_id=52"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Psilorhamphus guttatus",
@@ -2330,7 +2556,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Rhinocryptidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Psilorhamphus_guttatus_SP-SaoJosedos_Campos-.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/Psilorhamphus_guttatus_SP-SaoJosedos_Campos-.jpg",
+        "source": "http://ibc.lynxeds.com/photo/spotted-bamboowren-psilorhamphus-guttatus/individual-adult-male"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Pteroglossus bailloni",
@@ -2340,7 +2567,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Piciformes",
         "Familia": "Ramphastidae",
-        "url": "http://www.juanjculasso.ronjaleader.net/photos/Pteroglossus_bailloni-2742.jpg"
+        "url": "http://www.juanjculasso.ronjaleader.net/photos/Pteroglossus_bailloni-2742.jpg",
+        "source": "http://www.juanjculasso.ronjaleader.net/foto-aen.html?acao=I&id=Coraciiformes%20-%20Piciformes"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Pyroderus scutatus",
@@ -2350,7 +2578,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Cotingidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/pereira_292.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/pereira_292.jpg",
+        "source": "http://ibc.lynxeds.com/photo/red-ruffed-fruitcrow-pyroderus-scutatus/branch"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Saltator fuliginosus",
@@ -2360,7 +2589,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/1/1e/Saltator_fuliginosus_-Pomerode_Zoo,_Santa_Catarina,_Brazil_-adult_male-8b.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/1/1e/Saltator_fuliginosus_-Pomerode_Zoo,_Santa_Catarina,_Brazil_-adult_male-8b.jpg",
+        "source": "http://ceb.wikipedia.org/wiki/Saltator_fuliginosus"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sporophila bouvreuil",
@@ -2370,7 +2600,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Sporophila_bouvreuil_-Mogi_das_Cruzes,_Sao_Paulo,_Brasil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Sporophila_bouvreuil_-Mogi_das_Cruzes,_Sao_Paulo,_Brasil-8.jpg",
+        "source": "http://en.wikipedia.org/wiki/Copper_seedeater"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sporophila hypoxantha",
@@ -2380,7 +2611,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://adrianrupp.com/wp-content/uploads/2013/05/Sporophila-hypoxantha3.jpg"
+        "url": "http://adrianrupp.com/wp-content/uploads/2013/05/Sporophila-hypoxantha3.jpg",
+        "source": "http://adrianrupp.com/planalto-serrano/"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sporophila palustris",
@@ -2390,7 +2622,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/Sporophila_palustris_Argentina-Corriente-EsterosDelIbera-Ruta40.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/Sporophila_palustris_Argentina-Corriente-EsterosDelIbera-Ruta40.jpg",
+        "source": "http://ibc.lynxeds.com/photo/marsh-seedeater-sporophila-palustris/individual-adult-male"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Sporophila ruficollis",
@@ -2400,7 +2633,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Emberizidae",
-        "url": "http://freebirds.com.ar/images/mariano_costa/wps/wp_sporoph_rufic_1280x853.jpg"
+        "url": "http://freebirds.com.ar/images/mariano_costa/wps/wp_sporoph_rufic_1280x853.jpg",
+        "source": "http://freebirds.com.ar/m_en_gallery.htm"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Thalasseus acuflavidus",
@@ -2410,7 +2644,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Charadriiformes",
         "Familia": "Sternidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3f/Cabot's_Tern_(Thalasseus_acuflavidus)_RWD2.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3f/Cabot's_Tern_(Thalasseus_acuflavidus)_RWD2.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Cabot's_Tern_(Thalasseus_acuflavidus)_RWD2.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Tinamus solitarius",
@@ -2420,7 +2655,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Tinamiformes",
         "Familia": "Tinamidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/b/b7/Tinamus_solitarius_-Parque_Estadual_da_Serra_da_Cantareira,_Sao_Paulo,_Brasil-8.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/b/b7/Tinamus_solitarius_-Parque_Estadual_da_Serra_da_Cantareira,_Sao_Paulo,_Brasil-8.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Tinamus_solitarius_-Parque_Estadual_da_Serra_da_Cantareira,_Sao_Paulo,_Brasil-8.jpg"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Xanthopsar flavus",
@@ -2430,7 +2666,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Icteridae",
-        "url": "http://adrianrupp.com/wp-content/uploads/2013/05/Xanthopsar-flavus.jpg"
+        "url": "http://adrianrupp.com/wp-content/uploads/2013/05/Xanthopsar-flavus.jpg",
+        "source": "http://www.datuopinion.com/xanthopsar-flavus"
     }, {
         "Grupo": "Aves",
         "Nome científico": "Xolmis dominicanus",
@@ -2440,7 +2677,8 @@ controller('speciesController', function($scope) {
         "Classe": "Aves",
         "Ordem": "Passeriformes",
         "Familia": "Tyrannidae",
-        "url": "http://ibc.lynxeds.com/files/pictures/IMG_2909.jpg"
+        "url": "http://ibc.lynxeds.com/files/pictures/IMG_2909.jpg",
+        "source": "http://ibc.lynxeds.com/photo/black-white-monjita-xolmis-dominicanus/macho-territory-female"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Actinote catarina",
@@ -2450,7 +2688,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Nymphalidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/2/26/Actinote_pellenea.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/2/26/Actinote_pellenea.jpg",
+        "source": "http://en.wikipedia.org/wiki/Actinote"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla grisella",
@@ -2460,7 +2699,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://fc09.deviantart.net/fs70/i/2014/116/e/d/aegla_grisella_by_x_alex-d7g51b9.jpg"
+        "url": "http://fc09.deviantart.net/fs70/i/2014/116/e/d/aegla_grisella_by_x_alex-d7g51b9.jpg",
+        "source": "http://x-alex.deviantart.com/art/Aegla-Grisella-450372069"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla inconspicua",
@@ -2470,7 +2710,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/inconspicua1.300a.jpg"
+        "url": "http://tolweb.org/tree/ToLimages/inconspicua1.300a.jpg",
+        "source": "http://tolweb.org/Aegla_inconspicua/76271"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla itacolomiensis",
@@ -2480,7 +2721,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/itacolomiensis1.300a.jpg"
+        "url": "http://tolweb.org/tree/ToLimages/_itacolomiensis1.200a.jpg",
+        "source": "http://tolweb.org/Aegla_itacolomiensis/76272"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla serrana",
@@ -2490,7 +2732,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/grisella1.300a.jpg"
+        "url": "http://tolweb.org/tree/ToLimages/leptochela1.300a.jpg",
+        "source": "http://tolweb.org/Aegla_leptochela/76244"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Aegla spinipalma",
@@ -2500,7 +2743,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Aeglidae",
-        "url": "http://tolweb.org/tree/ToLimages/spinipalma1.300a.jpg"
+        "url": "http://tolweb.org/tree/ToLimages/spinipalma1.300a.jpg",
+        "source": "http://tolweb.org/Aegla_spinipalma/76250"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Corvoheteromeyenia australis",
@@ -2510,7 +2754,8 @@ controller('speciesController', function($scope) {
         "Classe": "Demospongiae",
         "Ordem": "Haplosclerida",
         "Familia": "Spongillidae",
-        "url": "http://www.scielo.br/img/revistas/rbzool/v20n2/n2a01f8.jpg"
+        "url": "http://www.scielo.br/img/revistas/rbzool/v20n2/n2a01f8.jpg",
+        "source": "http://www.scielo.br/scielo.php?pid=S0101-81752003000200001&script=sci_arttext"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Corvomeyenia epilithosa",
@@ -2520,7 +2765,8 @@ controller('speciesController', function($scope) {
         "Classe": "Demospongiae",
         "Ordem": "Poecilosclerida",
         "Familia": "Metaniidae",
-        "url": "http://www.scielo.br/img/revistas/rbzool/v22n4/a07fig02.jpg"
+        "url": "http://www.scielo.br/img/revistas/rbzool/v22n4/a07fig02.jpg",
+        "source": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-81752005000400007"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Drulia browni",
@@ -2530,7 +2776,8 @@ controller('speciesController', function($scope) {
         "Classe": "Demospongiae",
         "Ordem": "Poecilosclerida",
         "Familia": "Metaniidae",
-        "url": "http://www.biodiversidade.rs.gov.br/arquivos/1165255339Drulia_browni_Bowerbank_1863.JPG"
+        "url": "http://www.biodiversidade.rs.gov.br/arquivos/1165255339Drulia_browni_Bowerbank_1863.JPG",
+        "source": "http://www.biodiversidade.rs.gov.br/portal/index.php?acao=especies_ameacadas&id=46"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Euryades corethrus",
@@ -2540,7 +2787,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Papilionidae",
-        "url": "http://www.theinsectcollector.com/acatalog/E_corethrus_M.jpg"
+        "url": "http://www.theinsectcollector.com/acatalog/E_corethrus_M.jpg",
+        "source": "http://www.theinsectcollector.com/acatalog/info_3013.html"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Heteromeyenia insignis",
@@ -2550,7 +2798,8 @@ controller('speciesController', function($scope) {
         "Classe": "Demospongiae",
         "Ordem": "Haplosclerida",
         "Familia": "Spongillidae",
-        "url": "http://www.scielo.br/img/revistas/rbzool/v24n3/a13fig13.jpg"
+        "url": "http://www.scielo.br/img/revistas/rbzool/v24n3/a13fig13.jpg",
+        "source": "http://www.scielo.br/scielo.php?pid=S0101-81752007000300013&script=sci_arttext"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Melipona obscurior",
@@ -2560,7 +2809,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Hymenoptera",
         "Familia": "Apidae",
-        "url": "http://www.rufford.org/files/Melipona%20obscurior%20mounted.JPG"
+        "url": "http://www.rufford.org/files/Melipona%20obscurior%20mounted.JPG",
+        "source": "http://www.rufford.org/rsg/projects/fernando_zamudio_0"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Neohelice granulata",
@@ -2570,7 +2820,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Grapsidae",
-        "url": "http://fc02.deviantart.net/fs70/f/2013/363/3/1/neohelice_granulata___up_by_pabloyungblut-d6zwsz7.jpg"
+        "url": "http://fc02.deviantart.net/fs70/f/2013/363/3/1/neohelice_granulata___up_by_pabloyungblut-d6zwsz7.jpg",
+        "source": "http://pabloyungblut.deviantart.com/art/Neohelice-Granulata-Up-423114163"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Pampasatyrus quies",
@@ -2580,7 +2831,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Nymphalidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/pampasatyrus0024.jpg"
+        "url": "http://www.butterfliesofamerica.com/Lamas/pampasatyrus0024.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/pampasatyrus_quies_types.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Pampasatyrus reticulata",
@@ -2590,7 +2842,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Nymphalidae",
-        "url": "http://v2.boldsystems.org/connect/REST/getBarcodeRepForSpecies.php?taxid=304313&iwidth=400"
+        "url": "http://chc.cienciahoje.uol.com.br/wp-content/uploads/2014/07/image4.jpg",
+        "source": "http://chc.cienciahoje.uol.com.br/salvem-a-mantiqueira/"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Racekiela sheilae",
@@ -2600,7 +2853,8 @@ controller('speciesController', function($scope) {
         "Classe": "Demospongiae",
         "Ordem": "Haplosclerida",
         "Familia": "Spongillidae",
-        "url": "http://www.scielo.br/img/revistas/isz/v97n2/05f32.jpg"
+        "url": "http://www.scielo.br/img/revistas/isz/v97n2/05f32.jpg",
+        "source": "http://www.scielo.br/scielo.php?pid=S0073-47212007000200005&script=sci_arttext"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Symmachia arion",
@@ -2610,7 +2864,8 @@ controller('speciesController', function($scope) {
         "Classe": "Insecta",
         "Ordem": "Lepidoptera",
         "Familia": "Riodinidae",
-        "url": "http://www.butterfliesofamerica.com/Lamas/symmachia0071.jpg"
+        "url": "http://www.butterfliesofamerica.com/Lamas/symmachia0071.jpg",
+        "source": "http://www.butterfliesofamerica.com/L/symmachia_arion_types.htm"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Uca uruguayensis",
@@ -2620,7 +2875,8 @@ controller('speciesController', function($scope) {
         "Classe": "Malacostraca",
         "Ordem": "Decapoda",
         "Familia": "Ocypodidae",
-        "url": "http://www.fiddlercrab.info/photos/U_uruguayensis01.jpg"
+        "url": "http://www.fiddlercrab.info/photos/U_uruguayensis01.jpg",
+        "source": "http://www.fiddlercrab.info/u_uruguayensis.html"
     }, {
         "Grupo": "Invertebrados",
         "Nome científico": "Uruguaya corallioides",
@@ -2630,7 +2886,8 @@ controller('speciesController', function($scope) {
         "Classe": "Demospongiae",
         "Ordem": "Hadromerida",
         "Familia": "Potamolepidae",
-        "url": "https://lh5.googleusercontent.com/-HkvyeWgC10I/TdRYVgLWjFI/AAAAAAAAABE/TlPkHrsNam4/s1600/URUGUAYA%2BCORALOIDES.jpg"
+        "url": "http://img1.wikia.nocookie.net/__cb20120827140509/reinoanimalia/es/images/5/5e/Esponjas.jpg",
+        "source": "http://es.reinoanimalia.wikia.com/wiki/Archivo:Esponjas.jpg"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Agouti paca",
@@ -2640,7 +2897,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Rodentia",
         "Familia": "Cuniculidae",
-        "url": "http://atlasanatomiaamazonia.uab.cat/imagenes/taxonomia/19/0.jpg"
+        "url": "http://atlasanatomiaamazonia.uab.cat/imagenes/taxonomia/19/0.jpg",
+        "source": "http://atlasanatomiaamazonia.uab.cat/taxonomia.asp?especie=19"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Alouatta guariba clamitans",
@@ -2650,7 +2908,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Primates",
         "Familia": "Atelidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/b/b0/Alouatta_fusca_clamitans.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/b/b0/Alouatta_fusca_clamitans.jpg",
+        "source": "http://en.wikipedia.org/wiki/Southern_brown_howler"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Cavia magna",
@@ -2660,7 +2919,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Rodentia",
         "Familia": "Caviidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/4/45/Cavia_magna_(Wroclaw_zoo).JPG"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/4/45/Cavia_magna_(Wroclaw_zoo).JPG",
+        "source": "http://en.wikipedia.org/wiki/Greater_guinea_pig"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Chironectes minimus",
@@ -2670,7 +2930,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Didelphimorphia",
         "Familia": "Didelphidae",
-        "url": "http://cdn1.arkive.org/media/25/2507AEBA-00CF-48C7-97FB-0C88E115F0ED/Presentation.Large/Water-opossum-in-a-stream.jpg"
+        "url": "http://www.faunaparaguay.com/Chironectes%20minimus%20pn%20ybycui%20dep%20paraguari%20philip%20myers.jpg",
+        "source": "http://www.faunaparaguay.com/chironectesminimus.html"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Dasyprocta azarae",
@@ -2680,7 +2941,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Rodentia",
         "Familia": "Dasyproctidae",
-        "url": "https://c2.staticflickr.com/8/7001/6432230243_45b140ffd0.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/2/20/Dasyprocta_azarae.JPG",
+        "source": "http://it.wikipedia.org/wiki/Dasyprocta_azarae"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Eira barbara",
@@ -2690,7 +2952,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Mustelidae",
-        "url": "http://focusingonwildlife.com/news/wp-content/uploads/2013/08/Irara.jpg"
+        "url": "http://focusingonwildlife.com/news/wp-content/uploads/2013/08/Irara.jpg",
+        "source": "http://focusingonwildlife.com/news/adventures-of-a-nature-photographer-interaction-with-wild-animals/"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Eubalaena australis",
@@ -2700,7 +2963,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Cetacea",
         "Familia": "Balaenidae",
-        "url": "http://www.biodiversityexplorer.org/mammals/cetacea/images/5988973520_e25b65e156_658w.jpg"
+        "url": "http://www.biodiversityexplorer.org/mammals/cetacea/images/5988973520_e25b65e156_658w.jpg",
+        "source": "http://www.biodiversityexplorer.org/mammals/cetacea/eubalaena_australis.htm"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Leopardus geoffroyi",
@@ -2710,7 +2974,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Felidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Leopardus_geoffroyi-2.jpg"
+        "url": "http://www.biolib.cz/IMG/GAL/109499.jpg",
+        "source": "http://www.uniprot.org/taxonomy/46844"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Leopardus pardalis",
@@ -2720,7 +2985,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Felidae",
-        "url": "http://images.fineartamerica.com/images-medium-large/2-ocelot-leopardus-pardalis-standing-pete-oxford.jpg"
+        "url": "http://images.fineartamerica.com/images-medium-large/2-ocelot-leopardus-pardalis-standing-pete-oxford.jpg",
+        "source": "http://fineartamerica.com/featured/2-ocelot-leopardus-pardalis-standing-pete-oxford.html"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Leopardus tigrinus",
@@ -2730,7 +2996,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Felidae",
-        "url": "http://cdn1.arkive.org/media/3E/3EBB5FF0-6674-45A1-82B1-8EECEFD9258D/Presentation.Large/Oncilla-resting-in-a-tree.jpg"
+        "url": "http://cdn1.arkive.org/media/3E/3EBB5FF0-6674-45A1-82B1-8EECEFD9258D/Presentation.Large/Oncilla-resting-in-a-tree.jpg",
+        "source": "http://www.arkive.org/oncilla/leopardus-tigrinus/"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Leopardus wiedii",
@@ -2740,7 +3007,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Felidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/3/32/Margaykat_Leopardus_wiedii.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/3/32/Margaykat_Leopardus_wiedii.jpg",
+        "source": "http://en.wikipedia.org/wiki/Margay"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Marmosa paraguayana",
@@ -2750,7 +3018,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Didelphimorphia",
         "Familia": "Didelphidae",
-        "url": "http://www.faunaparaguay.com/images/Micoureus%20paraguayanus%20proc%206%20jun%2008%20sylvia%20qu%20lateral.jpg"
+        "url": "http://www.faunaparaguay.com/images/Micoureus%20paraguayanus%20proc%206%20jun%2008%20sylvia%20qu%20lateral.jpg",
+        "source": "http://www.faunaparaguay.com/micoureusdemerarae.html"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Nasua nasua",
@@ -2760,7 +3029,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Procyonidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3d/Nasua_nasua_climbing_tree.JPG"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3d/Nasua_nasua_climbing_tree.JPG",
+        "source": "http://commons.wikimedia.org/wiki/File:Nasua_nasua_climbing_tree.JPG"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Physeter macrocephalus",
@@ -2770,7 +3040,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Cetacea",
         "Familia": "Physeteridae",
-        "url": "http://safonov.35photo.ru/photos/20130126/472020.jpg"
+        "url": "http://safonov.35photo.ru/photos/20130126/472020.jpg",
+        "source": "http://www.reddit.com/r/whales/comments/1oykpg/sperm_whale_physeter_macrocephalus_near_the/"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Puma yagouaroundi",
@@ -2780,7 +3051,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Carnivora",
         "Familia": "Felidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/5/56/Puma_yaguarondi.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/5/56/Puma_yaguarondi.jpg",
+        "source": "http://en.wikipedia.org/wiki/Jaguarundi"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Tamandua tetradactyla",
@@ -2790,7 +3062,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Xenarthra",
         "Familia": "Myrmecophagidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3e/Tamandua_tetradactyla_qtl1.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/3/3e/Tamandua_tetradactyla_qtl1.jpg",
+        "source": "http://de.wikipedia.org/wiki/S%C3%BCdlicher_Tamandua"
     }, {
         "Grupo": "Mamíferos",
         "Nome científico": "Tursiops truncatus",
@@ -2800,7 +3073,8 @@ controller('speciesController', function($scope) {
         "Classe": "Mammalia",
         "Ordem": "Cetacea",
         "Familia": "Delphinidae",
-        "url": "http://www.newswise.com/images/uploads/2007/01/22/fullsize/BND_CP.jpg"
+        "url": "http://wallpaperswide.com/download/bottlenose_dolphins_tursiops_truncatus_caribbean_sea-wallpaper-1152x768.jpg",
+        "source": "http://wallpaperswide.com/bottlenose_dolphins_tursiops_truncatus_caribbean_sea-wallpapers.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Carcharhinus longimanus",
@@ -2810,7 +3084,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Carcharhinidae",
-        "url": "http://cmsdata.iucn.org/img/original/oceanic_white_tip_3_carcharhinus_longimanus_simon_rogerson.jpg"
+        "url": "http://cmsdata.iucn.org/img/original/oceanic_white_tip_3_carcharhinus_longimanus_simon_rogerson.jpg",
+        "source": "http://www.iucn.org/knowledge/news/?3362/Third-of-open-ocean-sharks-threatened-with-extinction"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Crenicichla empheres",
@@ -2820,7 +3095,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "PERCIFORMES",
         "Familia": "CICHLIDAE",
-        "url": "http://www.scielo.br/img/revistas/ni/v5n4/a04fig07.gif"
+        "url": "http://www.scielo.br/img/revistas/ni/v5n4/a04fig07.gif",
+        "source": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1679-62252007000400004"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Cynopoecilus fulgens",
@@ -2830,7 +3106,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://fishbase.sinica.edu.tw/images/species/cymel_u0.jpg"
+        "url": "http://fishbase.sinica.edu.tw/images/species/cymel_u0.jpg",
+        "source": "http://fishbase.sinica.edu.tw/identification/RegionSpeciesList.php?resultPage=76&c_code=076"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Cynopoecilus intimus",
@@ -2840,7 +3117,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://fishbase.sinica.edu.tw/images/species/cymel_u0.jpg"
+        "url": "http://fishbase.sinica.edu.tw/images/species/cymel_u0.jpg",
+        "source": "http://fishbase.sinica.edu.tw/identification/RegionSpeciesList.php?resultPage=76&c_code=076"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Cynopoecilus multipapillatus",
@@ -2850,7 +3128,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://www.itrainsfishes.net/content/species/cynopoe_multipapillatus_gr0.jpg"
+        "url": "http://www.itrainsfishes.net/content/species/cynopoe_multipapillatus_gr0.jpg",
+        "source": "http://www.itrainsfishes.net/content/cynopoecilus_multipapillatus_001.php"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Cynopoecilus nigrovittatus",
@@ -2860,7 +3139,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Cyprinodontiformes",
         "Familia": "Rivulidae",
-        "url": "http://fishbase.sinica.edu.tw/images/thumbnails/jpg/tn_cymel_u0.jpg"
+        "url": "http://fishbase.sinica.edu.tw/images/thumbnails/jpg/tn_cymel_u0.jpg",
+        "source": "http://fishbase.sinica.edu.tw/identification/RegionSpeciesList.php?resultPage=76&c_code=076"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Lopholatilus villarii",
@@ -2870,7 +3150,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "PERCIFORMES",
         "Familia": "Malacanthidae",
-        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Lovil_u2.jpg"
+        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Lovil_u2.jpg",
+        "source": "http://www.fishbase.org/summary/15383"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Pogonopoma obscurum",
@@ -2880,7 +3161,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Siluriformes",
         "Familia": "LORICARIIDAE",
-        "url": "http://www.auburn.edu/academic/science_math/res_area/loricariid/fish_key/Pogwerth/obscurum.jpg"
+        "url": "http://www.auburn.edu/academic/science_math/res_area/loricariid/fish_key/Pogwerth/obscurum.jpg",
+        "source": "http://www.auburn.edu/academic/science_math/res_area/loricariid/fish_key/Pogwerth/pogwerth.html"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Prionace glauca",
@@ -2890,7 +3172,8 @@ controller('speciesController', function($scope) {
         "Classe": "Chondrichthyes",
         "Ordem": "Carcharhiniformes",
         "Familia": "Carcharhinidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Prionace_glauca_1.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/0/03/Prionace_glauca_nmfs.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Prionace_glauca_nmfs.jpg"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Pseudopercis semifasciata",
@@ -2900,7 +3183,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "PERCIFORMES",
         "Familia": "Pinguipedidae",
-        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Pssem_u1.jpg"
+        "url": "http://www.fishbase.us/images/thumbnails/jpg/tn_Pssem_u1.jpg",
+        "source": "http://www.fishbase.org/summary/50136"
     }, {
         "Grupo": "Peixes",
         "Nome científico": "Salminus brasiliensis",
@@ -2910,7 +3194,8 @@ controller('speciesController', function($scope) {
         "Classe": "Osteichthyes",
         "Ordem": "Characiformes",
         "Familia": "Characidae",
-        "url": "http://www.aquahobby.com/gallery/characins/img/Salminus_brasiliensis_1.jpg"
+        "url": "http://www.aquahobby.com/gallery/characins/img/Salminus_brasiliensis_1.jpg",
+        "source": "http://www.aquahobby.com/gallery/characins/e_Salminus_brasiliensis.php"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Atractus thalesdelemai",
@@ -2920,7 +3205,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Squamata",
         "Familia": "Dipsadidae",
-        "url": "http://www.amphibia-reptilia.com/taxonomy/Images/Wuster/Atractuspantostictus2.JPG"
+        "url": "http://www.amphibia-reptilia.com/taxonomy/Images/Wuster/Atractuspantostictus2.JPG",
+        "source": "http://www.amphibia-reptilia.com/taxonomy/snakes/Colubridae/Atractus/Atractus.html"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Bothrops jararacussu",
@@ -2930,7 +3216,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Squamata",
         "Familia": "Viperidae",
-        "url": "http://static.panoramio.com/photos/original/9179345.jpg"
+        "url": "http://static.panoramio.com/photos/original/9179345.jpg",
+        "source": "http://www.uniprot.org/taxonomy/8726"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Chelonia mydas",
@@ -2940,7 +3227,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Testudines",
         "Familia": "Cheloniidae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/6/6e/Chelonia_mydas_is_going_for_the_air_edit.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/6/6e/Chelonia_mydas_is_going_for_the_air_edit.jpg",
+        "source": "http://en.wikipedia.org/wiki/Green_sea_turtle"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Hydrodynastes gigas",
@@ -2950,7 +3238,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Squamata",
         "Familia": "Colubridae",
-        "url": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Hydrodynastes_gigas,_male.jpg"
+        "url": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Hydrodynastes_gigas,_male.jpg",
+        "source": "http://commons.wikimedia.org/wiki/File:Hydrodynastes_gigas,_male.jpg"
     }, {
         "Grupo": "Répteis",
         "Nome científico": "Liolaemus occipitalis",
@@ -2960,7 +3249,8 @@ controller('speciesController', function($scope) {
         "Classe": "Reptilia",
         "Ordem": "Squamata",
         "Familia": "Liolaemidae",
-        "url": "http://www.reptarium.cz/content/photo_rd_03/Liolaemus-occipitalis-03000030834_01.jpg"
+        "url": "http://www.reptarium.cz/content/photo_rd_03/Liolaemus-occipitalis-03000030834_01.jpg",
+        "source": "http://reptile-database.reptarium.cz/species?genus=Liolaemus&species=occipitalis"
     }];
 
     $scope.filteredSpecies = $scope.species;
