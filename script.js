@@ -26,6 +26,27 @@
 // 	google.setOnLoadCallback(onLoad);
 // });
 
+// Parse.initialize("LEIS9Ae6fMWOVoFxihLmEi0moBfGYb6CsrtYyRZn", "7SEvsIu2sbTDVJU8VAGaBuaShzdTBDkHt80sSvD1");
+
+// var Specie = Parse.Object.extend("specie");
+// var query = new Parse.Query(Specie);
+
+
+// $(species).each(function(index, element) {
+// 	var specie = new Specie();
+// 	specie.set('scientificName', element['Nome científico']);
+// 	specie.set('group', element['Grupo']);
+// 	specie.set('commonName', element['Nomes Comuns']);
+// 	specie.set('category', element['Categoria']);
+// 	specie.set('criteria', element['Critérios']);
+// 	specie.set('class', element['Classe']);
+// 	specie.set('order', element['Ordem']);
+// 	specie.set('family', element['Familia']);
+// 	specie.set('url', element['url']);
+// 	specie.set('source', element['source']);
+// 	specie.save();
+// });
+
 // document.addEventListener("DOMContentLoaded", function(event) { 
 // 	$(cactus).each(function(index, element) {
 // 		var specie = $('<div class="specie"><h1>' + 
@@ -34,7 +55,6 @@
 // 		$('#species').append(specie);
 // 	});
 // });
-
 
 // $(cactus).each(function(index, element) {
 // 	google.load('search', '1');
