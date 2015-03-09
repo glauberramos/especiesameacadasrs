@@ -58,8 +58,7 @@
 			<div ng-repeat="specie in filteredSpecies | filter:search:strict | orderBy:'Categoria'" class="specie {{getCriterio(specie)}}">
 				<a ng-click="populateModal(specie['id'])" class="button button-rounded button-flat-primary" href="#modal">Edit</a>
 				<h1>{{ specie["Nome científico"] }}</h1>
-				<p><img class="icon" src="{{specie['Grupo'].toLowerCase()}}.svg" />{{ getNomeComum(specie["Nomes Comuns"]) }}</p>
-				<p>{{ specie["Ordem"] }} - {{ specie["Familia"] }}</p>
+				<p>{{ getNomeComum(specie["Nomes Comuns"]) }}</p>
 				<img src="{{ specie.url }}" id="specie{{ $index }}" />
 			</div>
 		</section>
