@@ -73,11 +73,15 @@ p, h1 {
 	padding: 1em;
 }
 
+input {
+	width: 500px;
+	height: 30px;
+}
+
 .input {
-	height: 25px;
+	height: 30px;
 	width: 400px;
 	margin-left: 1em;
-	font-size: 0.9em;
 }
 
 .filter-repo label {
@@ -265,4 +269,13 @@ img.icon {
 
 .répteis-legend {
 	background: #D4E157;
+}
+
+a.edit, a.edit:visited, a.edit:focus {
+	color: #29B6F6;
+	text-decoration: none;
+	padding-left: 0.5em;
+	margin-top: 0.5em;
+	display: block;
+	font-size: 0.85em;
 }
